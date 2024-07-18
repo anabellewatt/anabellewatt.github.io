@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Ranking</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.10.2/Sortable.min.js"></script>
+</head>
+<body>
+<main>
+    <div id="instructions-modal" class="modal-container">
+        <div class="modal-content">
+            <p>Instructions: Drag and drop to rank the project methods. Answer the questions below and submit.</p>
+            <button id="start-button" class="form-submit-button">Start</button>
+        </div>
+    </div>
+    <form id="questions-form">
+        <div class="question">
+            <label for="ranking-container">Please rank the following methods based on how effective you think they were:</label>
+            <ul id="ranking-container" class="projects-container">
+                <li class="project-item">Rank Projects</li>
+                <li class="project-item">Score Projects</li>
+                <li class="project-item">Group Projects</li>
+                <li class="project-item">Check Projects</li>
+            </ul>
+        </div>
+        <div class="question">
+            <label for="question2">Was this website easy to navigate? If not, why not?</label>
+            <textarea id="question2" name="question2" rows="4" cols="50"></textarea>
+        </div>
+        <div class="question">
+            <label for="question3">Is there a different way of ranking projects you think would be beneficial for project allocations?</label>
+            <textarea id="question3" name="question3" rows="4" cols="50"></textarea>
+        </div>
+        <div class="question">
+            <label for="question4">If you have experienced the project allocation process in The School of Informatics, what was your opinion of the process? And did you like the outcome?</label>
+            <textarea id="question4" name="question4" rows="4" cols="50"></textarea>
+        </div>
+        <div class="question">
+            <label for="question5">Any other feedback you have about ranking projects or project allocation?</label>
+            <textarea id="question5" name="question5" rows="4" cols="50"></textarea>
+        </div>
+        <button type="button" id="submit-button" class="form-submit-button">Submit Answers</button>
+    </form>
+</main>
+<script src="comments.js"></script>
+</body>
+</html>

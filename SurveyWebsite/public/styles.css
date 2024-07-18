@@ -1,0 +1,311 @@
+/* Common styles */
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    height: 100vh;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+
+}
+
+header {
+    width: 100%;
+    background-color: #e6e6e6;
+    padding: 10px 0;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.centered-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+    margin: 20px 0;
+    list-style-type: none;
+    padding: 0;
+    flex: 1;
+}
+
+/* Project item styles */
+
+.project-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 10px 20px;  /* Adjusted padding for larger item size */
+    margin: 10px 0;  /* Increased margin for spacing between items */
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: 100%;
+}
+
+.project-item:hover {
+    background-color: #eee;
+}
+
+.project-item .project-name {
+    display: block;
+    margin-bottom: 20px; /* Add space between name and buttons */
+}
+
+.project-item .actions {
+    display: flex;
+    gap: 20px;  /* Increased gap for better separation of buttons */ /* Added margin-top for spacing below the title */
+    justify-content: right;  /* Center the buttons */
+}
+
+.project-item .actions .approve, .project-item .actions .disapprove {
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+
+.project-item .actions .approve {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
+
+.project-item .actions .disapprove {
+    background-color: #f44336; /* Red */
+    color: white;
+}
+
+.project-item.outlined {
+    outline: 2px solid transparent;
+}
+
+.project-item {
+    position: relative;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 5px 0;
+    cursor: pointer;
+    transition: background-color 0.3s; /* Add background-color transition */
+    width: 100%;
+    text-align: center;
+}
+
+.project-item:hover {
+    background-color: #eee;
+}
+
+.project-item.approved {
+    background-color: #d4edda; /* Light green */
+    border: 2px solid #28a745; /* Darker green */
+}
+
+.project-item.disapproved {
+    background-color: #f8d7da; /* Light red */
+    border: 2px solid #dc3545; /* Darker red */
+}
+
+
+.sortable-ghost {
+    opacity: 0.4;
+}
+
+/* Modal styles */
+
+.modal-container {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+    overflow: hidden; /* Prevents scrolling on the page */
+}
+
+.modal-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    width: 80%; /* Fixed width */
+    max-width: 600px; /* Maximum width */
+    max-height: 80%; /* Maximum height */
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    overflow-y: auto; /* Enable vertical scrolling */
+    text-align: left;
+}
+
+.close-modal {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    font-size: 20px;
+    color: #aaa;
+}
+.close-modal:hover {
+    color: #000;
+}
+.categories-container {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.category {
+    width: 22%; /* Adjust width as needed */
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #e6e6e6;
+}
+
+.category h2 {
+    text-align: center;
+}
+
+.dropzone {
+    min-height: 100px;
+    border: 1px dashed #ccc;
+    padding: 10px;
+    background-color: #f9f9f9;
+}
+
+.projects-container3 {
+    max-height: 400px; /* Adjust the maximum height as needed */
+    overflow-y: auto; /* Enable vertical scroll */
+}
+
+.project-item3 {
+    padding: 10px; /* Adjust padding as needed */
+    border: 1px solid #ccc; /* Add border for separation */
+    background-color: #f9f9f9; /* Add background color */
+    border-radius: 5px; /* Add border radius for rounded corners */
+    transition: background-color 0.3s; /* Add transition effect */
+}
+
+.project-item3:hover {
+    background-color: #eee; /* Change background color on hover */
+}
+
+.project-name3 {
+    font-weight: bold; /* Example styling for project names */
+    /* Add any other styling as needed */
+}
+.form-submit-button {
+    background: #016ABC;
+    color: #fff;
+    border: 1px solid #eee;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #eee;
+    text-shadow: none;
+    font-size: 16px;
+    margin: 20px auto; /* Center the button horizontally and add vertical margin */
+    margin-bottom: 40px;
+}
+.form-submit-button:hover {
+    background: #0033cc;
+    color: #fff;
+    border: 1px solid #eee;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #eee;
+    text-shadow: none;
+    font-size: 16px;
+    margin: 20px auto; /* Center the button horizontally and add vertical margin */
+    margin-bottom: 40px;
+}
+
+#timer-container {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    text-align: left;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+}
+
+#timer {
+    font-size: 24px;
+    margin-right: 10px;
+}
+
+#pause-button, #resume-button, #resume-button-blackout {
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#blackout-screen {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: 1.0;
+    z-index: 10000;
+    justify-content: center;
+    align-items: center;
+}
+#blackout-screen button {
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.question {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+}
+.search-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+#search-input {
+    width: 60%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+#ranking-container {
+    list-style-type: none;
+    padding: 0;
+    margin: 0 auto;
+    width: 200px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

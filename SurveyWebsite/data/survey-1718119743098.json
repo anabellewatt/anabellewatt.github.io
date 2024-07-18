@@ -1,0 +1,162 @@
+{
+  "rankedProjects": [
+    "Blockchain for Supply Chain Traceability",
+    "Cloud-Based Disaster Recovery Solutions",
+    "AI for Sentiment Analysis in Social Media",
+    "AI for Automated Legal Document Analysis",
+    "AI for Predictive Maintenance in Transportation",
+    "AI for Personalized Health Monitoring",
+    "Machine Learning for Financial Fraud Detection",
+    "AI for Enhanced Cyber Threat Detection",
+    "AI for Personalized Travel Recommendations",
+    "Blockchain for Supply Chain Finance",
+    "Blockchain for Transparent Supply Chain Audits",
+    "Cybersecurity for IoT Devices",
+    "Virtual Reality for Museum Exhibits",
+    "IoT for Smart Parking Systems",
+    "Blockchain for Transparent Voting in Organizations",
+    "AI for Autonomous Drone Navigation",
+    "Natural Language Processing for Sentiment Analysis",
+    "Blockchain for Secure Digital Contract Management",
+    "AI for Optimizing Supply Chain Logistics",
+    "Blockchain for Transparent Digital Identity"
+  ],
+  "scoreProjects": [
+    {
+      "name": "Blockchain for Supply Chain Traceability",
+      "score": 0
+    },
+    {
+      "name": "Cloud-Based Disaster Recovery Solutions",
+      "score": 0
+    },
+    {
+      "name": "AI for Sentiment Analysis in Social Media",
+      "score": 0
+    },
+    {
+      "name": "AI for Automated Legal Document Analysis",
+      "score": 0
+    },
+    {
+      "name": "AI for Predictive Maintenance in Transportation",
+      "score": 0
+    },
+    {
+      "name": "AI for Personalized Health Monitoring",
+      "score": 0
+    },
+    {
+      "name": "Machine Learning for Financial Fraud Detection",
+      "score": 0
+    },
+    {
+      "name": "AI for Enhanced Cyber Threat Detection",
+      "score": 0
+    },
+    {
+      "name": "AI for Personalized Travel Recommendations",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Supply Chain Finance",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Transparent Supply Chain Audits",
+      "score": 0
+    },
+    {
+      "name": "Cybersecurity for IoT Devices",
+      "score": 0
+    },
+    {
+      "name": "Virtual Reality for Museum Exhibits",
+      "score": 0
+    },
+    {
+      "name": "IoT for Smart Parking Systems",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Transparent Voting in Organizations",
+      "score": 0
+    },
+    {
+      "name": "AI for Autonomous Drone Navigation",
+      "score": 0
+    },
+    {
+      "name": "Natural Language Processing for Sentiment Analysis",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Secure Digital Contract Management",
+      "score": 0
+    },
+    {
+      "name": "AI for Optimizing Supply Chain Logistics",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Transparent Digital Identity",
+      "score": 0
+    }
+  ],
+  "groupProjects": {
+    "really-want": [],
+    "okay-with": [],
+    "dont-want": [
+      "Blockchain for Secure Digital Contract Management",
+      "AI for Real-Time Anomaly Detection",
+      "IoT for Smart Agriculture",
+      "IoT for Smart Home Automation",
+      "AI for Optimizing Energy Consumption in Smart Homes",
+      "AI-Powered Chatbots for Customer Service",
+      "IoT-Based Environmental Monitoring Systems",
+      "Blockchain for Transparent Supply Chain Management",
+      "AI for Real-Time Language Translation",
+      "AI for Real-Time Sports Analytics",
+      "AI for Personalized Medicine",
+      "Natural Language Processing for Sentiment Analysis",
+      "AI for Enhanced Cyber Threat Detection",
+      "AI for Enhancing Customer Experience in Retail",
+      "Virtual Reality for Collaborative Workspaces",
+      "AI for Real-Time Emotion Recognition",
+      "Blockchain for Transparent Crowdfunding",
+      "AI for Automating Legal Document Analysis",
+      "AI for Predictive Analytics in Finance",
+      "IoT for Smart Transportation Systems"
+    ],
+    "not-qualified": []
+  },
+  "checkedProjects": {
+    "approved": [],
+    "disapproved": [
+      "Blockchain for Secure Voting Systems",
+      "Blockchain for Transparent Digital Identity",
+      "IoT for Smart Agriculture Systems",
+      "Cloud-Based Disaster Recovery Solutions",
+      "IoT for Smart City Infrastructure Management",
+      "Cybersecurity for IoT Devices",
+      "IoT for Smart Agriculture",
+      "Machine Learning for Financial Fraud Detection",
+      "IoT for Smart Water Management",
+      "AI for Optimizing Transportation Networks",
+      "AI for Predictive Analytics in Retail",
+      "Virtual Reality for Collaborative Workspaces",
+      "AI for Real-Time Translation",
+      "Blockchain for Transparent Government Procurement",
+      "Blockchain for Transparent Food Supply Chains",
+      "Blockchain for Decentralized Data Storage",
+      "Blockchain for Intellectual Property Protection",
+      "AI for Autonomous Drone Navigation",
+      "Blockchain for Secure E-Voting Systems",
+      "Blockchain for Transparent Supply Chain Audits"
+    ]
+  },
+  "rankedProjectsTime": 2.162,
+  "scoreProjectsTime": 2.178,
+  "groupProjectsTime": 2.256,
+  "checkProjectsTime": 2.441
+}

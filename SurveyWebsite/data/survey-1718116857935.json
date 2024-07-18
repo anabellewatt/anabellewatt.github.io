@@ -1,0 +1,163 @@
+{
+  "rankedProjects": [
+    "IoT for Smart Agriculture Systems",
+    "Blockchain for Transparent Digital Identity",
+    "AI for Real-Time Anomaly Detection",
+    "AI for Predictive Maintenance in Manufacturing",
+    "IoT for Smart Energy Management",
+    "Big Data Analytics for Healthcare",
+    "IoT for Smart Home Automation",
+    "AI for Predictive Analytics in Finance",
+    "AI for Enhancing Customer Service",
+    "IoT for Smart Parking Systems",
+    "Blockchain for Transparent Supply Chain Finance",
+    "AI for Automating Legal Document Analysis",
+    "AI for Financial Market Prediction",
+    "AI for Predictive Analytics in Sports",
+    "AI for Predictive Analytics in Logistics",
+    "AI for Predictive Maintenance in Transportation",
+    "AI for Enhanced Cyber Threat Detection",
+    "AI for Predictive Analytics in Healthcare",
+    "AI for Optimizing Transportation Networks",
+    "AI for Personalized Travel Recommendations"
+  ],
+  "scoreProjects": [
+    {
+      "name": "IoT for Smart Agriculture Systems",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Transparent Digital Identity",
+      "score": 0
+    },
+    {
+      "name": "AI for Real-Time Anomaly Detection",
+      "score": 0
+    },
+    {
+      "name": "AI for Predictive Maintenance in Manufacturing",
+      "score": 0
+    },
+    {
+      "name": "IoT for Smart Energy Management",
+      "score": 0
+    },
+    {
+      "name": "Big Data Analytics for Healthcare",
+      "score": 0
+    },
+    {
+      "name": "IoT for Smart Home Automation",
+      "score": 0
+    },
+    {
+      "name": "AI for Predictive Analytics in Finance",
+      "score": 0
+    },
+    {
+      "name": "AI for Enhancing Customer Service",
+      "score": 0
+    },
+    {
+      "name": "IoT for Smart Parking Systems",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Transparent Supply Chain Finance",
+      "score": 0
+    },
+    {
+      "name": "AI for Automating Legal Document Analysis",
+      "score": 0
+    },
+    {
+      "name": "AI for Financial Market Prediction",
+      "score": 0
+    },
+    {
+      "name": "AI for Predictive Analytics in Sports",
+      "score": 0
+    },
+    {
+      "name": "AI for Predictive Analytics in Logistics",
+      "score": 0
+    },
+    {
+      "name": "AI for Predictive Maintenance in Transportation",
+      "score": 0
+    },
+    {
+      "name": "AI for Enhanced Cyber Threat Detection",
+      "score": 0
+    },
+    {
+      "name": "AI for Predictive Analytics in Healthcare",
+      "score": 0
+    },
+    {
+      "name": "AI for Optimizing Transportation Networks",
+      "score": 0
+    },
+    {
+      "name": "AI for Personalized Travel Recommendations",
+      "score": 0
+    }
+  ],
+  "groupProjects": {
+    "really-want": [],
+    "okay-with": [],
+    "dont-want": [
+      "IoT for Smart Building Management",
+      "AI for Natural Disaster Prediction",
+      "Blockchain for Intellectual Property Protection",
+      "Blockchain for Transparent Digital Identity",
+      "IoT-Based Environmental Monitoring Systems",
+      "IoT for Smart City Infrastructure",
+      "AI for Enhancing Online Education",
+      "AI for Predictive Analytics in Retail",
+      "Virtual Reality for Physical Rehabilitation",
+      "AI for Sentiment Analysis in Social Media",
+      "IoT for Smart Energy Management",
+      "AI for Predictive Analytics in Finance",
+      "Blockchain for Transparent Charity Donations",
+      "AI for Enhanced Cyber Threat Detection",
+      "AI for Personalized Health Monitoring",
+      "Virtual Reality for Education and Training",
+      "AI for Predictive Analytics in Logistics",
+      "AI for Autonomous Drone Navigation",
+      "Big Data Analytics for Healthcare",
+      "AI for Enhancing Customer Service"
+    ],
+    "not-qualified": []
+  },
+  "checkedProjects": {
+    "approved": [
+      "IoT for Smart Agriculture Systems"
+    ],
+    "disapproved": [
+      "AI for Predictive Analytics in Marketing",
+      "IoT for Smart Agriculture",
+      "AI for Enhancing Customer Experience in Retail",
+      "Cybersecurity Measures for Smart Cities",
+      "IoT for Smart Transportation Systems",
+      "IoT for Smart Environmental Monitoring",
+      "AI for Predictive Maintenance in Transportation",
+      "Big Data Analytics for Healthcare",
+      "AI for Fraud Detection in E-Commerce",
+      "AI for Real-Time Language Translation",
+      "AI for Real-Time Sports Analytics",
+      "Blockchain for Decentralized Data Storage",
+      "Blockchain for Real Estate Transactions",
+      "AI for Predictive Maintenance in Manufacturing",
+      "AI for Personalized Travel Recommendations",
+      "AI for Automating Legal Document Analysis",
+      "Blockchain for Transparent Charity Donations",
+      "Virtual Reality for Education and Training",
+      "Cloud-Based Solutions for Enterprise Resource Planning"
+    ]
+  },
+  "rankedProjectsTime": 18.694,
+  "scoreProjectsTime": 12.944,
+  "groupProjectsTime": 12.584,
+  "checkProjectsTime": 9.587
+}

@@ -1,0 +1,162 @@
+{
+  "rankedProjects": [
+    "AI for Enhanced Cybersecurity Threat Detection",
+    "AI for Predictive Analytics in Finance",
+    "AI for Predictive Analytics in Marketing",
+    "AI for Personalized Travel Recommendations",
+    "Cloud-Based Disaster Recovery Solutions",
+    "IoT for Smart Environmental Monitoring",
+    "AI for Predictive Maintenance in Transportation",
+    "AI for Personalized Medicine",
+    "IoT-Based Environmental Monitoring Systems",
+    "AI for Real-Time Anomaly Detection",
+    "AI for Automating Legal Document Analysis",
+    "AI for Healthcare Diagnostics",
+    "AI for Predictive Analytics in Logistics",
+    "IoT for Smart Building Management",
+    "IoT for Smart Home Automation",
+    "Blockchain for Secure Digital Contract Management",
+    "AI for Predictive Policing",
+    "Blockchain for Transparent Charity Operations",
+    "AI for Autonomous Drone Navigation",
+    "Virtual Reality for Historical Education"
+  ],
+  "scoreProjects": [
+    {
+      "name": "AI for Enhanced Cybersecurity Threat Detection",
+      "score": 0
+    },
+    {
+      "name": "AI for Predictive Analytics in Finance",
+      "score": 0
+    },
+    {
+      "name": "AI for Predictive Analytics in Marketing",
+      "score": 0
+    },
+    {
+      "name": "AI for Personalized Travel Recommendations",
+      "score": 0
+    },
+    {
+      "name": "Cloud-Based Disaster Recovery Solutions",
+      "score": 0
+    },
+    {
+      "name": "IoT for Smart Environmental Monitoring",
+      "score": 0
+    },
+    {
+      "name": "AI for Predictive Maintenance in Transportation",
+      "score": 0
+    },
+    {
+      "name": "AI for Personalized Medicine",
+      "score": 0
+    },
+    {
+      "name": "IoT-Based Environmental Monitoring Systems",
+      "score": 0
+    },
+    {
+      "name": "AI for Real-Time Anomaly Detection",
+      "score": 0
+    },
+    {
+      "name": "AI for Automating Legal Document Analysis",
+      "score": 0
+    },
+    {
+      "name": "AI for Healthcare Diagnostics",
+      "score": 0
+    },
+    {
+      "name": "AI for Predictive Analytics in Logistics",
+      "score": 0
+    },
+    {
+      "name": "IoT for Smart Building Management",
+      "score": 0
+    },
+    {
+      "name": "IoT for Smart Home Automation",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Secure Digital Contract Management",
+      "score": 0
+    },
+    {
+      "name": "AI for Predictive Policing",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Transparent Charity Operations",
+      "score": 0
+    },
+    {
+      "name": "AI for Autonomous Drone Navigation",
+      "score": 0
+    },
+    {
+      "name": "Virtual Reality for Historical Education",
+      "score": 0
+    }
+  ],
+  "groupProjects": {
+    "really-want": [],
+    "okay-with": [],
+    "dont-want": [
+      "AI for Real-Time Video Analytics",
+      "AI for Predictive Maintenance in Manufacturing",
+      "AI for Personalized Learning Systems",
+      "AI for Automated Legal Document Analysis",
+      "AI for Financial Market Prediction",
+      "IoT for Smart Transportation Systems",
+      "Blockchain for Intellectual Property Protection",
+      "AI for Predictive Maintenance in Transportation",
+      "Cloud-Based Disaster Recovery Solutions",
+      "AI for Personalized Healthcare Recommendations",
+      "AI for Real-Time Speech Recognition",
+      "Virtual Reality for Emergency Response Training",
+      "Big Data Analytics for Healthcare",
+      "Cybersecurity for IoT Devices",
+      "IoT for Smart Parking Systems",
+      "IoT for Smart Building Management",
+      "Virtual Reality for Collaborative Workspaces",
+      "IoT-Based Environmental Monitoring Systems",
+      "Blockchain for Transparent Voting in Organizations",
+      "AI for Optimizing Transportation Networks"
+    ],
+    "not-qualified": []
+  },
+  "checkedProjects": {
+    "approved": [],
+    "disapproved": [
+      "Cloud-Based Solutions for Enterprise Resource Planning",
+      "Smart Contracts for Legal Agreements",
+      "Blockchain for Secure Healthcare Records",
+      "Virtual Reality for Collaborative Workspaces",
+      "Blockchain for Secure Digital Contract Management",
+      "IoT for Remote Patient Monitoring",
+      "IoT for Smart City Infrastructure",
+      "IoT for Smart Agriculture Systems",
+      "Virtual Reality for Education and Training",
+      "AI for Real-Time Speech Recognition",
+      "Blockchain for Secure Voting Systems",
+      "Blockchain for Transparent Charity Donations",
+      "IoT for Smart Agriculture",
+      "IoT for Smart Building Management",
+      "AI for Enhancing Online Education",
+      "Blockchain for Transparent Voting in Organizations",
+      "AI for Personalized Learning Systems",
+      "AI for Optimizing Transportation Networks",
+      "IoT for Smart Energy Management",
+      "AI for Predictive Analytics in Healthcare"
+    ]
+  },
+  "rankedProjectsTime": 2.534,
+  "scoreProjectsTime": 2.221,
+  "groupProjectsTime": 3.656,
+  "checkProjectsTime": 2.483
+}

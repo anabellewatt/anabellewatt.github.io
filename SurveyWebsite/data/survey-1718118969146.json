@@ -1,0 +1,165 @@
+{
+  "rankedProjects": [
+    "AI for Real-Time Anomaly Detection",
+    "AI for Enhancing Customer Service",
+    "AI for Enhanced Cyber Threat Detection",
+    "Blockchain for Transparent Charity Donations",
+    "AI for Enhanced Cybersecurity Threat Detection",
+    "IoT for Smart Environmental Monitoring",
+    "IoT for Smart Water Management",
+    "IoT for Remote Patient Monitoring",
+    "AI for Personalized Health Monitoring",
+    "AI for Real-Time Language Translation",
+    "AI for Financial Market Prediction",
+    "Blockchain for Transparent Supply Chain Management",
+    "AI for Predictive Policing",
+    "AI for Predictive Maintenance in Manufacturing",
+    "AI for Real-Time Translation",
+    "Blockchain for Transparent Crowdfunding",
+    "Blockchain for Secure Voting Systems",
+    "AI for Automating Legal Document Analysis",
+    "Blockchain for Secure Digital Contract Management",
+    "Blockchain for Transparent Charity Operations"
+  ],
+  "scoreProjects": [
+    {
+      "name": "AI for Real-Time Anomaly Detection",
+      "score": 0
+    },
+    {
+      "name": "AI for Enhancing Customer Service",
+      "score": 0
+    },
+    {
+      "name": "AI for Enhanced Cyber Threat Detection",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Transparent Charity Donations",
+      "score": 0
+    },
+    {
+      "name": "AI for Enhanced Cybersecurity Threat Detection",
+      "score": 0
+    },
+    {
+      "name": "IoT for Smart Environmental Monitoring",
+      "score": 0
+    },
+    {
+      "name": "IoT for Smart Water Management",
+      "score": 0
+    },
+    {
+      "name": "IoT for Remote Patient Monitoring",
+      "score": 0
+    },
+    {
+      "name": "AI for Personalized Health Monitoring",
+      "score": 0
+    },
+    {
+      "name": "AI for Real-Time Language Translation",
+      "score": 0
+    },
+    {
+      "name": "AI for Financial Market Prediction",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Transparent Supply Chain Management",
+      "score": 0
+    },
+    {
+      "name": "AI for Predictive Policing",
+      "score": 0
+    },
+    {
+      "name": "AI for Predictive Maintenance in Manufacturing",
+      "score": 0
+    },
+    {
+      "name": "AI for Real-Time Translation",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Transparent Crowdfunding",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Secure Voting Systems",
+      "score": 0
+    },
+    {
+      "name": "AI for Automating Legal Document Analysis",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Secure Digital Contract Management",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Transparent Charity Operations",
+      "score": 0
+    }
+  ],
+  "groupProjects": {
+    "really-want": [
+      "AI for Predictive Analytics in Healthcare",
+      "IoT for Smart Waste Management"
+    ],
+    "okay-with": [
+      "AI-Enhanced E-Learning Platforms",
+      "AI for Personalized Medicine"
+    ],
+    "dont-want": [
+      "AI for Optimizing Supply Chain Logistics",
+      "IoT for Smart Environmental Monitoring",
+      "Cybersecurity Measures for Smart Cities",
+      "AI for Enhancing Customer Service",
+      "Blockchain for Secure E-Voting Systems",
+      "Blockchain for Transparent Crowdfunding",
+      "IoT for Smart City Infrastructure Management",
+      "AI for Real-Time Speech Recognition",
+      "IoT for Smart Healthcare Systems",
+      "AI for Enhanced Cyber Threat Detection",
+      "AI for Predictive Analytics in Manufacturing",
+      "AI for Optimizing Transportation Networks",
+      "Cloud-Based Solutions for Enterprise Resource Planning",
+      "Machine Learning for Financial Fraud Detection",
+      "AI-Powered Chatbots for Customer Service",
+      "Big Data Analytics for Healthcare"
+    ],
+    "not-qualified": []
+  },
+  "checkedProjects": {
+    "approved": [
+      "AI for Personalized Health Monitoring",
+      "Blockchain for Transparent Digital Identity",
+      "AI for Natural Disaster Prediction"
+    ],
+    "disapproved": [
+      "AI-Powered Chatbots for Customer Service",
+      "AI for Autonomous Drone Navigation",
+      "AI for Real-Time Traffic Management",
+      "Blockchain for Transparent Supply Chain Finance",
+      "Blockchain for Real Estate Transactions",
+      "AI for Automated Legal Document Analysis",
+      "IoT for Smart Grid Management",
+      "AI for Predictive Maintenance in Transportation",
+      "IoT for Smart Energy Management",
+      "AI for Real-Time Video Analytics",
+      "Blockchain for Supply Chain Finance",
+      "AI for Real-Time Language Translation",
+      "AI in Autonomous Vehicles",
+      "AI for Predictive Analytics in Finance",
+      "Blockchain for Decentralized Data Storage",
+      "Blockchain for Transparent Supply Chain Management",
+      "IoT for Smart Healthcare Systems"
+    ]
+  },
+  "rankedProjectsTime": 5.57,
+  "scoreProjectsTime": 4.54,
+  "groupProjectsTime": 14.437,
+  "checkProjectsTime": 8.752
+}

@@ -1,0 +1,162 @@
+{
+  "rankedProjects": [
+    "IoT for Smart Energy Management",
+    "AI for Automated Legal Document Analysis",
+    "Blockchain for Secure Digital Contract Management",
+    "Blockchain for Secure Healthcare Records",
+    "AI for Enhanced Cybersecurity Threat Detection",
+    "AI for Enhanced Cyber Threat Detection",
+    "Blockchain for Transparent Food Supply Chains",
+    "IoT for Smart Agriculture",
+    "IoT for Smart Water Management",
+    "AI for Fraud Detection in Insurance Claims",
+    "Blockchain for Transparent Charity Donations",
+    "AI for Real-Time Translation",
+    "AI-Powered Chatbots for Customer Service",
+    "Smart Grid Technology for Energy Management",
+    "AI for Real-Time Video Analytics",
+    "Virtual Reality for Emergency Response Training",
+    "AI for Enhancing Customer Experience in Retail",
+    "Cloud-Based Disaster Recovery Solutions",
+    "AI for Real-Time Sports Analytics",
+    "Machine Learning for Financial Fraud Detection"
+  ],
+  "scoreProjects": [
+    {
+      "name": "IoT for Smart Energy Management",
+      "score": 0
+    },
+    {
+      "name": "AI for Automated Legal Document Analysis",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Secure Digital Contract Management",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Secure Healthcare Records",
+      "score": 0
+    },
+    {
+      "name": "AI for Enhanced Cybersecurity Threat Detection",
+      "score": 0
+    },
+    {
+      "name": "AI for Enhanced Cyber Threat Detection",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Transparent Food Supply Chains",
+      "score": 0
+    },
+    {
+      "name": "IoT for Smart Agriculture",
+      "score": 0
+    },
+    {
+      "name": "IoT for Smart Water Management",
+      "score": 0
+    },
+    {
+      "name": "AI for Fraud Detection in Insurance Claims",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Transparent Charity Donations",
+      "score": 0
+    },
+    {
+      "name": "AI for Real-Time Translation",
+      "score": 0
+    },
+    {
+      "name": "AI-Powered Chatbots for Customer Service",
+      "score": 0
+    },
+    {
+      "name": "Smart Grid Technology for Energy Management",
+      "score": 0
+    },
+    {
+      "name": "AI for Real-Time Video Analytics",
+      "score": 0
+    },
+    {
+      "name": "Virtual Reality for Emergency Response Training",
+      "score": 0
+    },
+    {
+      "name": "AI for Enhancing Customer Experience in Retail",
+      "score": 0
+    },
+    {
+      "name": "Cloud-Based Disaster Recovery Solutions",
+      "score": 0
+    },
+    {
+      "name": "AI for Real-Time Sports Analytics",
+      "score": 0
+    },
+    {
+      "name": "Machine Learning for Financial Fraud Detection",
+      "score": 0
+    }
+  ],
+  "groupProjects": {
+    "really-want": [],
+    "okay-with": [],
+    "dont-want": [
+      "Blockchain for Supply Chain Traceability",
+      "AI for Predictive Maintenance in Manufacturing",
+      "AI for Real-Time Video Analytics",
+      "AI for Enhancing Customer Experience in Retail",
+      "AI for Natural Disaster Prediction",
+      "AI for Predictive Maintenance in Transportation",
+      "AI for Real-Time Fraud Detection",
+      "AI for Real-Time Emotion Recognition",
+      "Virtual Reality for Museum Exhibits",
+      "IoT for Smart Building Management",
+      "IoT for Smart City Infrastructure",
+      "Blockchain for Transparent Government Procurement",
+      "AI for Real-Time Traffic Management",
+      "AI for Optimizing Supply Chain Logistics",
+      "IoT for Smart Energy Management",
+      "AI for Real-Time Image Recognition",
+      "Blockchain for Secure Digital Contract Management",
+      "IoT for Smart Healthcare Systems",
+      "AI for Optimizing Transportation Networks",
+      "Virtual Reality for Emergency Response Training"
+    ],
+    "not-qualified": []
+  },
+  "checkedProjects": {
+    "approved": [],
+    "disapproved": [
+      "AI for Enhanced Cybersecurity Threat Detection",
+      "Blockchain for Transparent Digital Identity",
+      "AI for Fraud Detection in E-Commerce",
+      "Blockchain for Secure Digital Contract Management",
+      "AI for Real-Time Video Analytics",
+      "Blockchain for Transparent Charity Operations",
+      "AI for Fraud Detection in Insurance Claims",
+      "AI for Sentiment Analysis in Social Media",
+      "IoT for Smart Environmental Monitoring",
+      "Cybersecurity Measures for Smart Cities",
+      "AI-Powered Chatbots for Customer Service",
+      "Blockchain for Decentralized Data Storage",
+      "IoT for Smart Parking Systems",
+      "AI for Enhanced Cyber Threat Detection",
+      "Blockchain for Intellectual Property Protection",
+      "Virtual Reality for Collaborative Workspaces",
+      "IoT for Remote Patient Monitoring",
+      "IoT for Smart Grid Management",
+      "Natural Language Processing for Sentiment Analysis",
+      "AI for Optimizing Energy Consumption in Smart Homes"
+    ]
+  },
+  "rankedProjectsTime": 4.865,
+  "scoreProjectsTime": 2.736,
+  "groupProjectsTime": 3.178,
+  "checkProjectsTime": 1.923
+}

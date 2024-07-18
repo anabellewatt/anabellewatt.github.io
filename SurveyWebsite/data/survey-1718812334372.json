@@ -1,0 +1,162 @@
+{
+  "rankedProjects": [
+    "AI for Automating Legal Document Analysis",
+    "Blockchain for Secure Voting Systems",
+    "Blockchain for Transparent Voting in Organizations",
+    "AI for Real-Time Traffic Management",
+    "Virtual Reality for Historical Education",
+    "AI for Enhancing Customer Experience in Retail",
+    "AI for Personalized Health Monitoring",
+    "AI for Enhanced Cybersecurity Threat Detection",
+    "Blockchain for Transparent Food Supply Chains",
+    "IoT for Smart City Infrastructure Management",
+    "Blockchain for Transparent Supply Chain Management",
+    "AI for Predictive Analytics in Sports",
+    "AI for Enhancing Customer Service",
+    "AI for Sentiment Analysis in Social Media",
+    "AI for Real-Time Speech Recognition",
+    "Blockchain for Supply Chain Traceability",
+    "Smart Grid Technology for Energy Management",
+    "AI for Optimizing Supply Chain Logistics",
+    "AI-Powered Chatbots for Customer Service",
+    "Machine Learning for Financial Fraud Detection"
+  ],
+  "scoreProjects": [
+    {
+      "name": "AI for Automating Legal Document Analysis",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Secure Voting Systems",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Transparent Voting in Organizations",
+      "score": 0
+    },
+    {
+      "name": "AI for Real-Time Traffic Management",
+      "score": 0
+    },
+    {
+      "name": "Virtual Reality for Historical Education",
+      "score": 0
+    },
+    {
+      "name": "AI for Enhancing Customer Experience in Retail",
+      "score": 0
+    },
+    {
+      "name": "AI for Personalized Health Monitoring",
+      "score": 0
+    },
+    {
+      "name": "AI for Enhanced Cybersecurity Threat Detection",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Transparent Food Supply Chains",
+      "score": 0
+    },
+    {
+      "name": "IoT for Smart City Infrastructure Management",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Transparent Supply Chain Management",
+      "score": 0
+    },
+    {
+      "name": "AI for Predictive Analytics in Sports",
+      "score": 0
+    },
+    {
+      "name": "AI for Enhancing Customer Service",
+      "score": 0
+    },
+    {
+      "name": "AI for Sentiment Analysis in Social Media",
+      "score": 0
+    },
+    {
+      "name": "AI for Real-Time Speech Recognition",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Supply Chain Traceability",
+      "score": 0
+    },
+    {
+      "name": "Smart Grid Technology for Energy Management",
+      "score": 0
+    },
+    {
+      "name": "AI for Optimizing Supply Chain Logistics",
+      "score": 0
+    },
+    {
+      "name": "AI-Powered Chatbots for Customer Service",
+      "score": 0
+    },
+    {
+      "name": "Machine Learning for Financial Fraud Detection",
+      "score": 0
+    }
+  ],
+  "groupProjects": {
+    "really-want": [],
+    "okay-with": [],
+    "dont-want": [
+      "Virtual Reality for Museum Exhibits",
+      "AI for Predictive Analytics in Marketing",
+      "Blockchain for Transparent Government Procurement",
+      "Blockchain for Secure Voting Systems",
+      "IoT for Remote Patient Monitoring",
+      "AI for Enhanced Cybersecurity Threat Detection",
+      "AI for Autonomous Drone Navigation",
+      "AI for Predictive Analytics in Sports",
+      "AI for Financial Market Prediction",
+      "Big Data Analytics for Healthcare",
+      "Virtual Reality for Historical Education",
+      "Blockchain for Transparent Supply Chain Audits",
+      "Blockchain for Secure E-Voting Systems",
+      "IoT for Smart Waste Management",
+      "Natural Language Processing for Sentiment Analysis",
+      "IoT for Smart Grid Management",
+      "IoT for Smart City Infrastructure Management",
+      "AI for Real-Time Fraud Detection",
+      "Blockchain for Supply Chain Transparency",
+      "IoT for Smart Parking Systems"
+    ],
+    "not-qualified": []
+  },
+  "checkedProjects": {
+    "approved": [],
+    "disapproved": [
+      "AI for Predictive Analytics in Healthcare",
+      "AI for Predictive Analytics in Logistics",
+      "Blockchain for Transparent Supply Chain Finance",
+      "IoT for Smart City Infrastructure",
+      "AI for Personalized Travel Recommendations",
+      "Machine Learning for Financial Fraud Detection",
+      "Virtual Reality for Historical Education",
+      "IoT for Smart Agriculture Systems",
+      "IoT for Smart Transportation Systems",
+      "IoT for Smart Building Management",
+      "Blockchain for Transparent Supply Chain Audits",
+      "AI for Real-Time Emotion Recognition",
+      "Blockchain for Transparent Supply Chain Management",
+      "AI for Real-Time Translation",
+      "IoT for Smart Healthcare Systems",
+      "Blockchain for Secure Voting Systems",
+      "AI-Powered Chatbots for Customer Service",
+      "Blockchain for Transparent Digital Rights Management",
+      "AI for Sentiment Analysis in Social Media",
+      "Cloud-Based Disaster Recovery Solutions"
+    ]
+  },
+  "rankedProjectsTime": "00:00:05",
+  "scoreProjectsTime": "00:00:02",
+  "groupProjectsTime": "00:00:01",
+  "checkProjectsTime": "00:00:01"
+}

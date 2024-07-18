@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Check the Projects</title>
+    <script src="LoadPage.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header id="page-header">
+        <h1>Check the Projects</h1>
+    </header>
+    <div id="instructions-modal" class="modal-container">
+        <div class="modal-content">
+            <h2>Instructions</h2>
+            <p>1.You will now be given another new set of projects to decide if you want the project or don't want the project. </p>
+            <p>2.To view the project information, click on the project title.</p>
+            <p>3.If you are interested in the project please click the green box, if you don't want the project click the red box.</p>
+            <p>4.If projects are not sorted into yes or no, they will automatically be sorted into the no category.</p>
+            <p>5.There is no limit of projects for each category, and each project has the same weight.</p>
+            <button id="start-button" class="form-submit-button">OK</button>
+        </div>
+    </div>
+    <div id="timer-container">
+        <span id="timer">00:00:00</span>
+        <button id="pause-button">Pause</button>
+        <button id="resume-button" style="display: none;">Resume</button>
+    </div>
+
+    <div id="project-info-container4" class="project-info-container4"></div>
+    <div id="blackout-screen">
+        <button id="resume-button-blackout">Resume</button>
+    </div>
+    <div id="projects-container" class="projects-container"></div>
+    <form id ="submit">
+        <button id="submit-button" class="form-submit-button">Submit Groups</button>
+    </form>
+
+    <div id="modal-container" class="modal-container">
+        <div id="modal-content" class="modal-content">
+            <span id="close-modal" class="close-modal">&times;</span>
+            <div id="project-info"></div>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    <script src="check.js"></script>
+    <script src="Timer.js"><</script>
+</body>
+</html>

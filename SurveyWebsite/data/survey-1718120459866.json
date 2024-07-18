@@ -1,0 +1,165 @@
+{
+  "rankedProjects": [
+    "AI for Predictive Analytics in Sports",
+    "Blockchain for Intellectual Property Protection",
+    "AI for Predictive Policing",
+    "AI for Real-Time Anomaly Detection",
+    "AI for Predictive Maintenance in Transportation",
+    "AI for Real-Time Emotion Recognition",
+    "AI for Personalized Travel Recommendations",
+    "Cybersecurity for IoT Devices",
+    "Virtual Reality for Physical Rehabilitation",
+    "IoT for Smart Water Management",
+    "Blockchain for Secure E-Voting Systems",
+    "AI for Autonomous Drone Navigation",
+    "AI for Personalized Healthcare Recommendations",
+    "Blockchain for Transparent Charity Operations",
+    "AI for Automated Legal Document Analysis",
+    "AI for Natural Disaster Prediction",
+    "AI for Enhancing Customer Service",
+    "Cloud-Based Solutions for Enterprise Resource Planning",
+    "AI for Financial Market Prediction",
+    "Blockchain for Secure Healthcare Records"
+  ],
+  "scoreProjects": [
+    {
+      "name": "AI for Predictive Analytics in Sports",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Intellectual Property Protection",
+      "score": 0
+    },
+    {
+      "name": "AI for Predictive Policing",
+      "score": 0
+    },
+    {
+      "name": "AI for Real-Time Anomaly Detection",
+      "score": 0
+    },
+    {
+      "name": "AI for Predictive Maintenance in Transportation",
+      "score": 0
+    },
+    {
+      "name": "AI for Real-Time Emotion Recognition",
+      "score": 0
+    },
+    {
+      "name": "AI for Personalized Travel Recommendations",
+      "score": 0
+    },
+    {
+      "name": "Cybersecurity for IoT Devices",
+      "score": 0
+    },
+    {
+      "name": "Virtual Reality for Physical Rehabilitation",
+      "score": 0
+    },
+    {
+      "name": "IoT for Smart Water Management",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Secure E-Voting Systems",
+      "score": 0
+    },
+    {
+      "name": "AI for Autonomous Drone Navigation",
+      "score": 0
+    },
+    {
+      "name": "AI for Personalized Healthcare Recommendations",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Transparent Charity Operations",
+      "score": 0
+    },
+    {
+      "name": "AI for Automated Legal Document Analysis",
+      "score": 0
+    },
+    {
+      "name": "AI for Natural Disaster Prediction",
+      "score": 0
+    },
+    {
+      "name": "AI for Enhancing Customer Service",
+      "score": 0
+    },
+    {
+      "name": "Cloud-Based Solutions for Enterprise Resource Planning",
+      "score": 0
+    },
+    {
+      "name": "AI for Financial Market Prediction",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Secure Healthcare Records",
+      "score": 0
+    }
+  ],
+  "groupProjects": {
+    "really-want": [
+      "Cloud-Based Disaster Recovery Solutions"
+    ],
+    "okay-with": [
+      "AI for Real-Time Traffic Management",
+      "Blockchain for Transparent Supply Chain Finance"
+    ],
+    "dont-want": [
+      "IoT for Smart Home Automation",
+      "Big Data Analytics for Healthcare",
+      "AI for Personalized Health Monitoring",
+      "IoT for Smart Energy Management",
+      "IoT for Smart Agriculture",
+      "AI for Predictive Maintenance in Transportation",
+      "AI for Optimizing Transportation Networks",
+      "Virtual Reality for Physical Rehabilitation",
+      "AI for Financial Market Prediction",
+      "Smart Grid Technology for Energy Management",
+      "AI for Predictive Analytics in Logistics",
+      "Blockchain for Transparent Voting in Organizations",
+      "AI for Enhancing Online Education",
+      "AI for Personalized Healthcare Recommendations",
+      "AI for Personalized Learning Systems",
+      "AI for Real-Time Fraud Detection",
+      "AI for Sentiment Analysis in Social Media"
+    ],
+    "not-qualified": []
+  },
+  "checkedProjects": {
+    "approved": [
+      "IoT for Smart Agriculture",
+      "IoT for Smart Parking Systems"
+    ],
+    "disapproved": [
+      "Big Data Analytics for Healthcare",
+      "Blockchain for Transparent Supply Chain Finance",
+      "Blockchain for Supply Chain Transparency",
+      "AI for Real-Time Image Recognition",
+      "Virtual Reality for Physical Rehabilitation",
+      "Blockchain for Transparent Digital Identity",
+      "Blockchain for Transparent Charity Donations",
+      "AI for Real-Time Fraud Detection",
+      "AI for Personalized Learning Systems",
+      "IoT for Smart Agriculture Systems",
+      "Blockchain for Transparent Voting in Organizations",
+      "Blockchain for Decentralized Data Storage",
+      "Blockchain for Transparent Digital Rights Management",
+      "Blockchain for Secure Voting Systems",
+      "AI for Enhanced Cyber Threat Detection",
+      "AI for Predictive Policing",
+      "AI for Predictive Analytics in Healthcare",
+      "AI for Real-Time Video Analytics"
+    ]
+  },
+  "rankedProjectsTime": 7.091,
+  "scoreProjectsTime": 21.528,
+  "groupProjectsTime": 12.209,
+  "checkProjectsTime": 10.757
+}

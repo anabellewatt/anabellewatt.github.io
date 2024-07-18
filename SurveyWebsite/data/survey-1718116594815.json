@@ -1,0 +1,162 @@
+{
+  "rankedProjects": [
+    "AI for Financial Market Prediction",
+    "AI for Optimizing Energy Consumption in Smart Homes",
+    "IoT for Smart Home Automation",
+    "IoT-Enabled Smart Home Systems",
+    "Cloud-Based Disaster Recovery Solutions",
+    "AI for Personalized Healthcare Recommendations",
+    "IoT-Based Environmental Monitoring Systems",
+    "AI for Fraud Detection in Insurance Claims",
+    "AI for Healthcare Diagnostics",
+    "Blockchain for Supply Chain Finance",
+    "Smart Contracts for Legal Agreements",
+    "AI for Enhanced Cyber Threat Detection",
+    "AI for Real-Time Traffic Management",
+    "Blockchain for Transparent Voting in Organizations",
+    "Cybersecurity Measures for Smart Cities",
+    "AI for Optimizing Supply Chain Logistics",
+    "Virtual Reality for Collaborative Workspaces",
+    "IoT for Smart Parking Systems",
+    "Virtual Reality for Historical Education",
+    "IoT for Smart City Infrastructure Management"
+  ],
+  "scoreProjects": [
+    {
+      "name": "AI for Financial Market Prediction",
+      "score": 0
+    },
+    {
+      "name": "AI for Optimizing Energy Consumption in Smart Homes",
+      "score": 0
+    },
+    {
+      "name": "IoT for Smart Home Automation",
+      "score": 0
+    },
+    {
+      "name": "IoT-Enabled Smart Home Systems",
+      "score": 0
+    },
+    {
+      "name": "Cloud-Based Disaster Recovery Solutions",
+      "score": 0
+    },
+    {
+      "name": "AI for Personalized Healthcare Recommendations",
+      "score": 0
+    },
+    {
+      "name": "IoT-Based Environmental Monitoring Systems",
+      "score": 0
+    },
+    {
+      "name": "AI for Fraud Detection in Insurance Claims",
+      "score": 0
+    },
+    {
+      "name": "AI for Healthcare Diagnostics",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Supply Chain Finance",
+      "score": 0
+    },
+    {
+      "name": "Smart Contracts for Legal Agreements",
+      "score": 0
+    },
+    {
+      "name": "AI for Enhanced Cyber Threat Detection",
+      "score": 0
+    },
+    {
+      "name": "AI for Real-Time Traffic Management",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Transparent Voting in Organizations",
+      "score": 0
+    },
+    {
+      "name": "Cybersecurity Measures for Smart Cities",
+      "score": 0
+    },
+    {
+      "name": "AI for Optimizing Supply Chain Logistics",
+      "score": 0
+    },
+    {
+      "name": "Virtual Reality for Collaborative Workspaces",
+      "score": 0
+    },
+    {
+      "name": "IoT for Smart Parking Systems",
+      "score": 0
+    },
+    {
+      "name": "Virtual Reality for Historical Education",
+      "score": 0
+    },
+    {
+      "name": "IoT for Smart City Infrastructure Management",
+      "score": 0
+    }
+  ],
+  "groupProjects": {
+    "really-want": [],
+    "okay-with": [],
+    "dont-want": [
+      "AI for Real-Time Sports Analytics",
+      "AI for Predictive Maintenance in Transportation",
+      "Machine Learning for Financial Fraud Detection",
+      "Blockchain for Secure E-Voting Systems",
+      "AI for Enhancing Online Education",
+      "IoT for Smart Water Management",
+      "AI for Automating Legal Document Analysis",
+      "Cloud-Based Solutions for Enterprise Resource Planning",
+      "AI for Natural Disaster Prediction",
+      "AI for Optimizing Transportation Networks",
+      "Blockchain for Transparent Crowdfunding",
+      "AI for Predictive Analytics in Logistics",
+      "Virtual Reality for Historical Education",
+      "AI for Fraud Detection in E-Commerce",
+      "Blockchain for Transparent Food Supply Chains",
+      "IoT for Smart Waste Management",
+      "AI for Optimizing Energy Consumption in Smart Homes",
+      "AI for Personalized Health Monitoring",
+      "AI for Predictive Analytics in Healthcare",
+      "AI for Real-Time Fraud Detection"
+    ],
+    "not-qualified": []
+  },
+  "checkedProjects": {
+    "approved": [],
+    "disapproved": [
+      "Blockchain for Real Estate Transactions",
+      "Natural Language Processing for Sentiment Analysis",
+      "AI for Autonomous Drone Navigation",
+      "Blockchain for Transparent Supply Chain Management",
+      "AI for Optimizing Supply Chain Logistics",
+      "IoT for Smart Parking Systems",
+      "Virtual Reality for Collaborative Workspaces",
+      "AI for Optimizing Transportation Networks",
+      "IoT for Smart Water Management",
+      "Virtual Reality for Museum Exhibits",
+      "IoT for Smart City Infrastructure",
+      "AI for Predictive Analytics in Marketing",
+      "AI for Enhancing Customer Experience in Retail",
+      "AI-Enhanced E-Learning Platforms",
+      "Blockchain for Transparent Charity Operations",
+      "IoT for Smart Home Automation",
+      "Cloud-Based Solutions for Enterprise Resource Planning",
+      "Smart Grid Technology for Energy Management",
+      "Blockchain for Secure Voting Systems",
+      "AI for Sentiment Analysis in Social Media"
+    ]
+  },
+  "rankedProjectsTime": 7.442,
+  "scoreProjectsTime": 16.934,
+  "groupProjectsTime": 2.068,
+  "checkProjectsTime": 2.253
+}

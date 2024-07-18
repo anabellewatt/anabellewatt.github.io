@@ -1,0 +1,170 @@
+{
+  "rankedProjects": [
+    "A computer assisted translator of Latin to English",
+    "OK, Piet: A semantic definition for the esoteric programming language Piet",
+    "A Tabular Data Workbench",
+    "Interactive Task Learning using Corrective Dialogue Moves",
+    "Speech driven animation of human heads in conversation using neural networks",
+    "Exploration of Neural Symbolic AI",
+    "Auto Parallelisation Through Deep Learning",
+    "Unsupervised phonetic speech segmentation",
+    "Automatic Proposal of Experiments to Discriminate Between Alternative Repairs to a Faulty Theory",
+    "Scalable Software Messaging Layer for Multiple kernel Operating System",
+    "The effect of noise in quantum advantage sampling problems",
+    "Vision for Good",
+    "Assessing Intelligence of Explore Exploit Algorithms",
+    "Machine Learning for Earth: Using computer vision and machine learning to monitor land degradation caused by climate change",
+    "Tracking beak and foot movements for weaver bird nest building",
+    "Analysing the robustness of transport ticketing apps",
+    "Learning to play Draughts",
+    "Incrementing the MarkEd online marking tool with support for fairer and more efficient marking",
+    "Energy costs of Neural Nets",
+    "Machine Learning for Stock Price Prediction"
+  ],
+  "scoreProjects": [
+    {
+      "name": "A computer assisted translator of Latin to English",
+      "score": 0
+    },
+    {
+      "name": "OK, Piet: A semantic definition for the esoteric programming language Piet",
+      "score": 0
+    },
+    {
+      "name": "A Tabular Data Workbench",
+      "score": 0
+    },
+    {
+      "name": "Interactive Task Learning using Corrective Dialogue Moves",
+      "score": 0
+    },
+    {
+      "name": "Speech driven animation of human heads in conversation using neural networks",
+      "score": 0
+    },
+    {
+      "name": "Exploration of Neural Symbolic AI",
+      "score": 0
+    },
+    {
+      "name": "Auto Parallelisation Through Deep Learning",
+      "score": 0
+    },
+    {
+      "name": "Unsupervised phonetic speech segmentation",
+      "score": 0
+    },
+    {
+      "name": "Automatic Proposal of Experiments to Discriminate Between Alternative Repairs to a Faulty Theory",
+      "score": 0
+    },
+    {
+      "name": "Scalable Software Messaging Layer for Multiple kernel Operating System",
+      "score": 0
+    },
+    {
+      "name": "The effect of noise in quantum advantage sampling problems",
+      "score": 0
+    },
+    {
+      "name": "Vision for Good",
+      "score": 0
+    },
+    {
+      "name": "Assessing Intelligence of Explore Exploit Algorithms",
+      "score": 0
+    },
+    {
+      "name": "Machine Learning for Earth: Using computer vision and machine learning to monitor land degradation caused by climate change",
+      "score": 0
+    },
+    {
+      "name": "Tracking beak and foot movements for weaver bird nest building",
+      "score": 0
+    },
+    {
+      "name": "Analysing the robustness of transport ticketing apps",
+      "score": 0
+    },
+    {
+      "name": "Learning to play Draughts",
+      "score": 0
+    },
+    {
+      "name": "Incrementing the MarkEd online marking tool with support for fairer and more efficient marking",
+      "score": 0
+    },
+    {
+      "name": "Energy costs of Neural Nets",
+      "score": 0
+    },
+    {
+      "name": "Machine Learning for Stock Price Prediction",
+      "score": 0
+    }
+  ],
+  "groupProjects": {
+    "really-want": [],
+    "okay-with": [],
+    "dont-want": [
+      "Parsing the STAC corpus",
+      "Preservation of Codd semantics in databases with SQL nulls",
+      "Formal semantics of the SQL language",
+      "Sources of variability in neural activity",
+      "Rubbish sorting game",
+      "An experimental study of tree based index data structures",
+      "Tools for teaching Computation and Logic",
+      "Implementing Interoperability Between the Vulkan and SYCL",
+      "Automatic punctuation annotation using Transformers",
+      "Quantum Algorithms for Near Term Devices: Computational Chemistry",
+      "Further exploration of Euler's Foundations of Differential Calculus in Isabelle/HOL using nonstandard analysis",
+      "Using AI and Machine Learning to improve Learning",
+      "Energy costs of Neural Nets",
+      "Performance characterization of serverless computing",
+      "A smart button for recording \"teaching moments\"",
+      "Parallel Query Evaluation in Streaming Environments",
+      "Developing tools for audio visual speech recognition",
+      "Retrofitting GraphBLAS to Legacy Code",
+      "Co design for robots and environments",
+      "implementing efficient (randomized) algorithms for comparing integers succinctly represented by arithmetic circuits"
+    ],
+    "not-qualified": []
+  },
+  "checkedProjects": {
+    "approved": [
+      "Food Supply Tracking through Blockchain",
+      "Linear Existential Rules with Transitivity"
+    ],
+    "disapproved": [
+      "Blockchain Ticketing System",
+      "Mandelbrot Maps: Web application for exploring fractals",
+      "App for Gathering Experiment Data on Set Recommendation for Multiagent Coordination (iOS Front End)",
+      "Visual tools and extensions for Attack Trees",
+      "Biologically Inspired Multiagent Pursuit Evasion Models",
+      "Designing a new language for physic computations with support for precision and physical units",
+      "A smart button for recording \"teaching moments\"",
+      "Automatic virtual channel assignment for the ProtoGen tool",
+      "Estimate robot ego motion with an event based camera",
+      "Neural Network pruning for faster execution and smaller memory usage",
+      "Parsing the STAC corpus",
+      "Analysis of the DAPHNE dataset",
+      "Multi Level Cache Sizing Strategies and their Efficacies at Scale",
+      "Implementing and Evaluating Algorithms for Constraint Shortest Paths",
+      "App for Gathering Experiment Data on Set Recommendation for Multiagent Coordination (Back End)",
+      "Task scheduling in heterogeneous ISA processing platforms",
+      "Implementing Walukiewicz' completeness proof for the modal mu calculus",
+      "Localisation and Shape Estimation of a Robotic Bronchoscope in Lung Surgery"
+    ]
+  },
+  "questions": {
+    "question1": "",
+    "question2": "",
+    "question3": "",
+    "question4": "",
+    "question5": ""
+  },
+  "rankedProjectsTime": "00:03:53",
+  "scoreProjectsTime": "00:00:07",
+  "groupProjectsTime": "00:00:27",
+  "checkProjectsTime": "00:00:22"
+}

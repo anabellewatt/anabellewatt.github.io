@@ -1,0 +1,159 @@
+{
+  "rankedProjects": [
+    "AI-Powered Chatbots for Customer Service",
+    "AI for Autonomous Drone Navigation",
+    "AI for Healthcare Diagnostics",
+    "AI in Autonomous Vehicles",
+    "Cloud-Based Disaster Recovery Solutions",
+    "Blockchain for Decentralized Data Storage",
+    "AI for Real-Time Video Analytics",
+    "AI for Enhancing Customer Service",
+    "Virtual Reality for Emergency Response Training",
+    "AI for Predictive Maintenance in Transportation",
+    "Blockchain for Transparent Charity Operations",
+    "AI for Enhanced Cybersecurity Threat Detection",
+    "AI for Sentiment Analysis in Social Media",
+    "AI for Personalized Learning Systems",
+    "AI for Real-Time Fraud Detection",
+    "AI for Real-Time Language Translation",
+    "AI for Automated Legal Document Analysis",
+    "IoT for Smart City Infrastructure Management",
+    "Blockchain for Transparent Supply Chain Audits",
+    "Blockchain for Transparent Voting in Organizations"
+  ],
+  "rankedScores": [
+    {
+      "name": "AI-Powered Chatbots for Customer Service",
+      "score": 0
+    },
+    {
+      "name": "AI for Autonomous Drone Navigation",
+      "score": 0
+    },
+    {
+      "name": "AI for Healthcare Diagnostics",
+      "score": 0
+    },
+    {
+      "name": "AI in Autonomous Vehicles",
+      "score": 0
+    },
+    {
+      "name": "Cloud-Based Disaster Recovery Solutions",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Decentralized Data Storage",
+      "score": 0
+    },
+    {
+      "name": "AI for Real-Time Video Analytics",
+      "score": 0
+    },
+    {
+      "name": "AI for Enhancing Customer Service",
+      "score": 0
+    },
+    {
+      "name": "Virtual Reality for Emergency Response Training",
+      "score": 0
+    },
+    {
+      "name": "AI for Predictive Maintenance in Transportation",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Transparent Charity Operations",
+      "score": 0
+    },
+    {
+      "name": "AI for Enhanced Cybersecurity Threat Detection",
+      "score": 0
+    },
+    {
+      "name": "AI for Sentiment Analysis in Social Media",
+      "score": 0
+    },
+    {
+      "name": "AI for Personalized Learning Systems",
+      "score": 0
+    },
+    {
+      "name": "AI for Real-Time Fraud Detection",
+      "score": 0
+    },
+    {
+      "name": "AI for Real-Time Language Translation",
+      "score": 0
+    },
+    {
+      "name": "AI for Automated Legal Document Analysis",
+      "score": 0
+    },
+    {
+      "name": "IoT for Smart City Infrastructure Management",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Transparent Supply Chain Audits",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Transparent Voting in Organizations",
+      "score": 0
+    }
+  ],
+  "categorizedProjects": {
+    "really-want": [],
+    "okay-with": [],
+    "dont-want": [
+      "IoT for Smart City Infrastructure",
+      "Virtual Reality for Museum Exhibits",
+      "IoT for Smart Energy Management",
+      "Big Data Analytics for Healthcare",
+      "Blockchain for Transparent Government Procurement",
+      "AI for Personalized Health Monitoring",
+      "AI for Predictive Maintenance in Transportation",
+      "AI for Predictive Policing",
+      "Blockchain for Transparent Crowdfunding",
+      "AI for Fraud Detection in Insurance Claims",
+      "AI for Real-Time Video Analytics",
+      "Blockchain for Decentralized Data Storage",
+      "IoT for Smart Agriculture Systems",
+      "AI for Financial Market Prediction",
+      "AI for Personalized Healthcare Recommendations",
+      "AI for Real-Time Speech Recognition",
+      "Blockchain for Intellectual Property Protection",
+      "AI-Enhanced E-Learning Platforms",
+      "IoT for Smart Transportation Systems",
+      "Blockchain for Transparent Supply Chain Finance"
+    ],
+    "not-qualified": []
+  },
+  "checkedProjects": {
+    "approved": [],
+    "disapproved": [
+      "Blockchain for Transparent Digital Identity",
+      "AI for Predictive Policing",
+      "IoT for Smart Agriculture",
+      "Blockchain for Supply Chain Transparency",
+      "AI for Predictive Analytics in Logistics",
+      "Blockchain for Transparent Crowdfunding",
+      "AI for Enhancing Online Education",
+      "Cybersecurity Measures for Smart Cities",
+      "Blockchain for Secure Healthcare Records",
+      "IoT for Smart Building Management",
+      "AI for Personalized Learning Systems",
+      "Cybersecurity for IoT Devices",
+      "AI for Enhanced Cyber Threat Detection",
+      "AI for Optimizing Supply Chain Logistics",
+      "AI for Optimizing Transportation Networks",
+      "AI for Automating Legal Document Analysis",
+      "Blockchain for Transparent Charity Operations",
+      "AI for Real-Time Translation",
+      "IoT for Smart Water Management",
+      "Blockchain for Transparent Charity Donations"
+    ]
+  },
+  "rankedProjectstime": 9.089
+}

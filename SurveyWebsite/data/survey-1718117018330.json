@@ -1,0 +1,166 @@
+{
+  "rankedProjects": [
+    "Blockchain for Transparent Supply Chain Audits",
+    "AI for Natural Disaster Prediction",
+    "AI for Predictive Analytics in Sports",
+    "AI for Predictive Analytics in Healthcare",
+    "AI for Personalized Learning Systems",
+    "AI for Real-Time Video Analytics",
+    "Blockchain for Secure Healthcare Records",
+    "AI-Enhanced E-Learning Platforms",
+    "AI for Enhanced Cybersecurity Threat Detection",
+    "AI for Automated Legal Document Analysis",
+    "Cybersecurity Measures for Smart Cities",
+    "IoT-Enabled Smart Home Systems",
+    "Blockchain for Secure Digital Contract Management",
+    "AI for Healthcare Diagnostics",
+    "Cloud-Based Solutions for Enterprise Resource Planning",
+    "Virtual Reality for Historical Education",
+    "AI for Enhanced Cyber Threat Detection",
+    "Blockchain for Supply Chain Finance",
+    "Blockchain for Transparent Digital Identity",
+    "AI for Personalized Medicine"
+  ],
+  "scoreProjects": [
+    {
+      "name": "Blockchain for Transparent Supply Chain Audits",
+      "score": 9
+    },
+    {
+      "name": "AI for Natural Disaster Prediction",
+      "score": 8
+    },
+    {
+      "name": "AI for Predictive Analytics in Sports",
+      "score": 8
+    },
+    {
+      "name": "AI for Predictive Analytics in Healthcare",
+      "score": 7
+    },
+    {
+      "name": "AI for Personalized Learning Systems",
+      "score": 0
+    },
+    {
+      "name": "AI for Real-Time Video Analytics",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Secure Healthcare Records",
+      "score": 0
+    },
+    {
+      "name": "AI-Enhanced E-Learning Platforms",
+      "score": 0
+    },
+    {
+      "name": "AI for Enhanced Cybersecurity Threat Detection",
+      "score": 0
+    },
+    {
+      "name": "AI for Automated Legal Document Analysis",
+      "score": 0
+    },
+    {
+      "name": "Cybersecurity Measures for Smart Cities",
+      "score": 0
+    },
+    {
+      "name": "IoT-Enabled Smart Home Systems",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Secure Digital Contract Management",
+      "score": 0
+    },
+    {
+      "name": "AI for Healthcare Diagnostics",
+      "score": 0
+    },
+    {
+      "name": "Cloud-Based Solutions for Enterprise Resource Planning",
+      "score": 0
+    },
+    {
+      "name": "Virtual Reality for Historical Education",
+      "score": 0
+    },
+    {
+      "name": "AI for Enhanced Cyber Threat Detection",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Supply Chain Finance",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Transparent Digital Identity",
+      "score": 0
+    },
+    {
+      "name": "AI for Personalized Medicine",
+      "score": 0
+    }
+  ],
+  "groupProjects": {
+    "really-want": [
+      "IoT for Smart Agriculture Systems",
+      "AI for Enhancing Online Education",
+      "AI for Enhancing Customer Experience in Retail",
+      "AI for Real-Time Traffic Management",
+      "AI for Predictive Analytics in Manufacturing",
+      "IoT-Based Environmental Monitoring Systems"
+    ],
+    "okay-with": [
+      "IoT for Smart Energy Management",
+      "AI for Predictive Analytics in Retail",
+      "AI for Healthcare Diagnostics",
+      "Blockchain for Secure E-Voting Systems",
+      "Blockchain for Supply Chain Transparency",
+      "Blockchain for Secure Voting Systems",
+      "Virtual Reality for Historical Education",
+      "IoT for Smart Waste Management"
+    ],
+    "dont-want": [
+      "AI for Optimizing Supply Chain Logistics",
+      "AI for Real-Time Video Analytics"
+    ],
+    "not-qualified": [
+      "Blockchain for Transparent Digital Rights Management",
+      "IoT for Remote Patient Monitoring",
+      "AI for Personalized Travel Recommendations",
+      "IoT for Smart Healthcare Systems"
+    ]
+  },
+  "checkedProjects": {
+    "approved": [
+      "AI for Optimizing Energy Consumption in Smart Homes",
+      "Blockchain for Secure Digital Contract Management",
+      "AI-Enhanced E-Learning Platforms",
+      "AI for Predictive Analytics in Retail",
+      "AI for Predictive Analytics in Sports",
+      "IoT for Smart City Infrastructure",
+      "IoT for Smart Agriculture",
+      "IoT-Based Environmental Monitoring Systems",
+      "Blockchain for Transparent Government Procurement",
+      "AI for Predictive Maintenance in Transportation",
+      "AI-Powered Chatbots for Customer Service",
+      "AI for Enhanced Cyber Threat Detection",
+      "Blockchain for Transparent Food Supply Chains",
+      "AI for Enhanced Cybersecurity Threat Detection",
+      "IoT for Smart Home Automation"
+    ],
+    "disapproved": [
+      "AI for Financial Market Prediction",
+      "IoT for Smart Environmental Monitoring",
+      "Blockchain for Transparent Supply Chain Finance",
+      "AI for Sentiment Analysis in Social Media",
+      "AI in Autonomous Vehicles"
+    ]
+  },
+  "rankedProjectsTime": 17.312,
+  "scoreProjectsTime": 23.407,
+  "groupProjectsTime": 41.667,
+  "checkProjectsTime": 39.187
+}

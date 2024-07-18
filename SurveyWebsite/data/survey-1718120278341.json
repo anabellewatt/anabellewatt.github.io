@@ -1,0 +1,163 @@
+{
+  "rankedProjects": [
+    "AI for Autonomous Drone Navigation",
+    "IoT for Smart City Infrastructure Management",
+    "Virtual Reality for Physical Rehabilitation",
+    "IoT for Smart Water Management",
+    "Blockchain for Transparent Charity Operations",
+    "Blockchain for Real Estate Transactions",
+    "AI for Real-Time Fraud Detection",
+    "AI for Natural Disaster Prediction",
+    "Blockchain for Supply Chain Transparency",
+    "Blockchain for Secure Voting Systems",
+    "IoT for Smart Agriculture Systems",
+    "AI for Predictive Policing",
+    "Smart Grid Technology for Energy Management",
+    "Machine Learning for Financial Fraud Detection",
+    "Blockchain for Secure Healthcare Records",
+    "AI for Real-Time Image Recognition",
+    "Blockchain for Intellectual Property Protection",
+    "Natural Language Processing for Sentiment Analysis",
+    "IoT for Smart City Infrastructure",
+    "Blockchain for Secure Voting Systems"
+  ],
+  "scoreProjects": [
+    {
+      "name": "AI for Autonomous Drone Navigation",
+      "score": 0
+    },
+    {
+      "name": "IoT for Smart City Infrastructure Management",
+      "score": 0
+    },
+    {
+      "name": "Virtual Reality for Physical Rehabilitation",
+      "score": 0
+    },
+    {
+      "name": "IoT for Smart Water Management",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Transparent Charity Operations",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Real Estate Transactions",
+      "score": 0
+    },
+    {
+      "name": "AI for Real-Time Fraud Detection",
+      "score": 0
+    },
+    {
+      "name": "AI for Natural Disaster Prediction",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Supply Chain Transparency",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Secure Voting Systems",
+      "score": 0
+    },
+    {
+      "name": "IoT for Smart Agriculture Systems",
+      "score": 0
+    },
+    {
+      "name": "AI for Predictive Policing",
+      "score": 0
+    },
+    {
+      "name": "Smart Grid Technology for Energy Management",
+      "score": 0
+    },
+    {
+      "name": "Machine Learning for Financial Fraud Detection",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Secure Healthcare Records",
+      "score": 0
+    },
+    {
+      "name": "AI for Real-Time Image Recognition",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Intellectual Property Protection",
+      "score": 0
+    },
+    {
+      "name": "Natural Language Processing for Sentiment Analysis",
+      "score": 0
+    },
+    {
+      "name": "IoT for Smart City Infrastructure",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Secure Voting Systems",
+      "score": 0
+    }
+  ],
+  "groupProjects": {
+    "really-want": [],
+    "okay-with": [],
+    "dont-want": [
+      "Blockchain for Secure Healthcare Records",
+      "AI for Predictive Analytics in Logistics",
+      "AI for Real-Time Emotion Recognition",
+      "Virtual Reality for Museum Exhibits",
+      "AI for Predictive Maintenance in Manufacturing",
+      "Smart Grid Technology for Energy Management",
+      "AI for Predictive Analytics in Retail",
+      "IoT-Enabled Smart Home Systems",
+      "Blockchain for Transparent Supply Chain Management",
+      "IoT for Smart Agriculture Systems",
+      "AI for Real-Time Fraud Detection",
+      "AI-Powered Chatbots for Customer Service",
+      "AI for Real-Time Language Translation",
+      "AI in Autonomous Vehicles",
+      "IoT for Smart Grid Management",
+      "Blockchain for Transparent Voting in Organizations",
+      "AI for Automating Legal Document Analysis",
+      "IoT for Smart Building Management",
+      "IoT for Smart Transportation Systems",
+      "Blockchain for Transparent Charity Operations"
+    ],
+    "not-qualified": []
+  },
+  "checkedProjects": {
+    "approved": [
+      "IoT for Smart Parking Systems",
+      "AI for Real-Time Sports Analytics"
+    ],
+    "disapproved": [
+      "Blockchain for Transparent Food Supply Chains",
+      "AI for Real-Time Emotion Recognition",
+      "IoT for Smart Building Management",
+      "AI for Optimizing Supply Chain Logistics",
+      "AI for Healthcare Diagnostics",
+      "IoT for Smart Grid Management",
+      "IoT for Smart Water Management",
+      "Blockchain for Secure Healthcare Records",
+      "Blockchain for Supply Chain Traceability",
+      "IoT for Smart Energy Management",
+      "AI for Real-Time Language Translation",
+      "IoT for Smart Agriculture",
+      "IoT for Remote Patient Monitoring",
+      "AI for Predictive Analytics in Healthcare",
+      "AI for Real-Time Translation",
+      "AI for Personalized Healthcare Recommendations",
+      "AI for Personalized Health Monitoring",
+      "AI for Sentiment Analysis in Social Media"
+    ]
+  },
+  "rankedProjectsTime": 3.924,
+  "scoreProjectsTime": 3.439,
+  "groupProjectsTime": 8.823,
+  "checkProjectsTime": 6.073
+}

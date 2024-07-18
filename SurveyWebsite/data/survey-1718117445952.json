@@ -1,0 +1,162 @@
+{
+  "rankedProjects": [
+    "AI for Real-Time Sports Analytics",
+    "Cybersecurity Measures for Smart Cities",
+    "AI for Real-Time Emotion Recognition",
+    "IoT-Enabled Smart Home Systems",
+    "AI for Predictive Analytics in Sports",
+    "IoT for Smart Healthcare Systems",
+    "AI for Enhancing Online Education",
+    "Blockchain for Supply Chain Traceability",
+    "IoT for Smart Transportation Systems",
+    "Blockchain for Secure Healthcare Records",
+    "IoT for Smart Environmental Monitoring",
+    "IoT for Smart Parking Systems",
+    "Blockchain for Transparent Supply Chain Management",
+    "IoT for Smart Water Management",
+    "AI for Automated Legal Document Analysis",
+    "Blockchain for Transparent Supply Chain Finance",
+    "AI for Optimizing Transportation Networks",
+    "IoT for Smart Building Management",
+    "IoT for Remote Patient Monitoring",
+    "Blockchain for Secure E-Voting Systems"
+  ],
+  "scoreProjects": [
+    {
+      "name": "AI for Real-Time Sports Analytics",
+      "score": 0
+    },
+    {
+      "name": "Cybersecurity Measures for Smart Cities",
+      "score": 0
+    },
+    {
+      "name": "AI for Real-Time Emotion Recognition",
+      "score": 0
+    },
+    {
+      "name": "IoT-Enabled Smart Home Systems",
+      "score": 0
+    },
+    {
+      "name": "AI for Predictive Analytics in Sports",
+      "score": 0
+    },
+    {
+      "name": "IoT for Smart Healthcare Systems",
+      "score": 0
+    },
+    {
+      "name": "AI for Enhancing Online Education",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Supply Chain Traceability",
+      "score": 0
+    },
+    {
+      "name": "IoT for Smart Transportation Systems",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Secure Healthcare Records",
+      "score": 0
+    },
+    {
+      "name": "IoT for Smart Environmental Monitoring",
+      "score": 0
+    },
+    {
+      "name": "IoT for Smart Parking Systems",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Transparent Supply Chain Management",
+      "score": 0
+    },
+    {
+      "name": "IoT for Smart Water Management",
+      "score": 0
+    },
+    {
+      "name": "AI for Automated Legal Document Analysis",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Transparent Supply Chain Finance",
+      "score": 0
+    },
+    {
+      "name": "AI for Optimizing Transportation Networks",
+      "score": 0
+    },
+    {
+      "name": "IoT for Smart Building Management",
+      "score": 0
+    },
+    {
+      "name": "IoT for Remote Patient Monitoring",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Secure E-Voting Systems",
+      "score": 0
+    }
+  ],
+  "groupProjects": {
+    "really-want": [],
+    "okay-with": [],
+    "dont-want": [
+      "IoT-Based Environmental Monitoring Systems",
+      "Blockchain for Transparent Food Supply Chains",
+      "AI for Predictive Analytics in Retail",
+      "AI for Predictive Analytics in Marketing",
+      "IoT for Smart Grid Management",
+      "AI for Personalized Health Monitoring",
+      "Blockchain for Transparent Supply Chain Finance",
+      "AI for Enhancing Online Education",
+      "Blockchain for Intellectual Property Protection",
+      "AI for Healthcare Diagnostics",
+      "IoT for Smart Energy Management",
+      "Blockchain for Secure Digital Contract Management",
+      "AI for Predictive Analytics in Finance",
+      "AI for Enhancing Customer Service",
+      "IoT for Smart Home Automation",
+      "IoT for Smart Waste Management",
+      "AI for Automated Legal Document Analysis",
+      "Virtual Reality for Historical Education",
+      "Blockchain for Supply Chain Transparency",
+      "AI for Real-Time Traffic Management"
+    ],
+    "not-qualified": []
+  },
+  "checkedProjects": {
+    "approved": [],
+    "disapproved": [
+      "AI for Financial Market Prediction",
+      "AI for Automated Legal Document Analysis",
+      "IoT for Smart Healthcare Systems",
+      "AI for Predictive Analytics in Marketing",
+      "IoT-Enabled Smart Home Systems",
+      "AI for Real-Time Video Analytics",
+      "AI for Predictive Maintenance in Transportation",
+      "Cloud-Based Solutions for Enterprise Resource Planning",
+      "IoT for Smart Transportation Systems",
+      "IoT for Smart Building Management",
+      "IoT for Smart Grid Management",
+      "Smart Contracts for Legal Agreements",
+      "Blockchain for Intellectual Property Protection",
+      "AI for Sentiment Analysis in Social Media",
+      "IoT for Smart Home Automation",
+      "AI for Personalized Healthcare Recommendations",
+      "AI for Enhancing Customer Service",
+      "AI for Real-Time Sports Analytics",
+      "AI for Real-Time Traffic Management",
+      "Virtual Reality for Physical Rehabilitation"
+    ]
+  },
+  "rankedProjectsTime": 11.978,
+  "scoreProjectsTime": 2.219,
+  "groupProjectsTime": 2.875,
+  "checkProjectsTime": 3.182
+}

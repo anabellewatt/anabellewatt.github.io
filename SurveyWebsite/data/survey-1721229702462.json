@@ -1,0 +1,177 @@
+{
+  "rankedProjects": [
+    "Approximate haplotype calling from short read sequencing datasets",
+    "Beyond Species Classification: Re Identification of Individual Animals in Wildlife Images",
+    "Text driven head motion synthesis of animated agents using neural networks",
+    "Tools for teaching Computation and Logic",
+    "Automatic virtual channel assignment for the ProtoGen tool",
+    "Experiments in Social Signals Analysis for COPD patients",
+    "Natural head motion synthesis with Generative Adversarial Networks",
+    "Analysis of Air Pollution, Respiratory and Physical Activity datasets for investigating health effects of air pollution",
+    "Further exploration of Euler's Foundations of Differential Calculus in Isabelle/HOL using nonstandard analysis",
+    "Fairness characterisation of Urban services",
+    "Haskell Notebooks: applying Jupyter/IHaskell",
+    "An Interactive Tool for Ethical Thinking",
+    "Access constraints discovery",
+    "Fast Sequence Alignment for Merging Functions",
+    "Using AI and Machine Learning to improve Learning",
+    "Design a Visual Programming Language for Making Minecraft Server Plugins",
+    "A Java IDE allowing the editing of code and UML simultaneously.",
+    "reachability algorithms (both qualitative and quantitative) for Branching Markov Decision Processes and Branching Stochastic Games",
+    "Privacy context game in human agent systems",
+    "Generalization in Reinforcement Learning"
+  ],
+  "scoreProjects": [
+    {
+      "name": "Approximate haplotype calling from short read sequencing datasets",
+      "score": 0
+    },
+    {
+      "name": "Beyond Species Classification: Re Identification of Individual Animals in Wildlife Images",
+      "score": 0
+    },
+    {
+      "name": "Text driven head motion synthesis of animated agents using neural networks",
+      "score": 0
+    },
+    {
+      "name": "Tools for teaching Computation and Logic",
+      "score": 0
+    },
+    {
+      "name": "Automatic virtual channel assignment for the ProtoGen tool",
+      "score": 0
+    },
+    {
+      "name": "Experiments in Social Signals Analysis for COPD patients",
+      "score": 0
+    },
+    {
+      "name": "Natural head motion synthesis with Generative Adversarial Networks",
+      "score": 0
+    },
+    {
+      "name": "Analysis of Air Pollution, Respiratory and Physical Activity datasets for investigating health effects of air pollution",
+      "score": 0
+    },
+    {
+      "name": "Further exploration of Euler's Foundations of Differential Calculus in Isabelle/HOL using nonstandard analysis",
+      "score": 0
+    },
+    {
+      "name": "Fairness characterisation of Urban services",
+      "score": 0
+    },
+    {
+      "name": "Haskell Notebooks: applying Jupyter/IHaskell",
+      "score": 0
+    },
+    {
+      "name": "An Interactive Tool for Ethical Thinking",
+      "score": 0
+    },
+    {
+      "name": "Access constraints discovery",
+      "score": 0
+    },
+    {
+      "name": "Fast Sequence Alignment for Merging Functions",
+      "score": 0
+    },
+    {
+      "name": "Using AI and Machine Learning to improve Learning",
+      "score": 0
+    },
+    {
+      "name": "Design a Visual Programming Language for Making Minecraft Server Plugins",
+      "score": 0
+    },
+    {
+      "name": "A Java IDE allowing the editing of code and UML simultaneously.",
+      "score": 0
+    },
+    {
+      "name": "reachability algorithms (both qualitative and quantitative) for Branching Markov Decision Processes and Branching Stochastic Games",
+      "score": 0
+    },
+    {
+      "name": "Privacy context game in human agent systems",
+      "score": 0
+    },
+    {
+      "name": "Generalization in Reinforcement Learning",
+      "score": 0
+    }
+  ],
+  "groupProjects": {
+    "really-want": [],
+    "okay-with": [],
+    "dont-want": [
+      "Facilitating and authenticating the reading of Terms & Conditions and Privacy Statements",
+      "Haskell Notebooks: applying Jupyter/IHaskell",
+      "Hardware Support for JIT Compilation",
+      "Operation oriented NoSQL database",
+      "A Backend for a Coherence Protocol Generator",
+      "Visual Sudoku Solver",
+      "An experimental study of tree based index data structures",
+      "Database Support for Minority Language Policy Research",
+      "Cancer data science and epigenetics",
+      "App for Gathering Experiment Data on Set Recommendation for Multiagent Coordination (Android Front End)",
+      "A neural circuit to explain the bee dance",
+      "Implementing Federated Learning in Tensorflow.js",
+      "Verification of networks of real time systems",
+      "Detection of time required to find study space in the Main Library using WiFi data",
+      "Visual tools and extensions for Attack Trees",
+      "Formal Proofs of Cryptographic Protocols",
+      "Pedagogically sensible lab sessions for Software Design and Modelling",
+      "Toward a Technology to Overcome Anxiety in Children with Autism",
+      "Automatic Knowledge Discovery",
+      "Color identification app"
+    ],
+    "not-qualified": []
+  },
+  "checkedProjects": {
+    "approved": [
+      "Energy costs of Neural Nets",
+      "OK, Piet: A semantic definition for the esoteric programming language Piet"
+    ],
+    "disapproved": [
+      "Haskell Notebooks: applying Jupyter/IHaskell",
+      "Recording Execution Traces through JAVA programs",
+      "Topological analysis of biomedical data",
+      "Multicore Processing Support for InfOS",
+      "Control of behaviour in a pet robot",
+      "Implementation of the Bayes filter algorithm",
+      "Firewall administration, the game",
+      "Analysis of Differential Paths in ARX Ciphers Using ARXTools",
+      "The distribution of roots of random polynomials.",
+      "Unsupervised phonetic speech segmentation",
+      "Automatic segmentation of biomes in medium resolution satellite imagery",
+      "Color identification app",
+      "Secure file restrictions for general applications",
+      "Deep learning for robot control",
+      "Data Mining Wikipedia",
+      "Implementation of an Algorithm for Optimal Probability Computation Using Transition Probability Matrices",
+      "implementing efficient (randomized) algorithms for comparing integers succinctly represented by arithmetic circuits",
+      "Neural Network pruning for faster execution and smaller memory usage"
+    ]
+  },
+  "questions": {
+    "answers": {
+      "question2": "",
+      "question3": "",
+      "question4": "",
+      "question5": ""
+    },
+    "rankedMethods": [
+      "Group Projects",
+      "Score Projects",
+      "Rank Projects",
+      "Check Projects"
+    ]
+  },
+  "rankedProjectsTime": "00:00:07",
+  "scoreProjectsTime": "00:00:06",
+  "groupProjectsTime": "00:00:04",
+  "checkProjectsTime": "00:00:09"
+}

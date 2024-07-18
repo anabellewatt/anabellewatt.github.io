@@ -1,0 +1,173 @@
+{
+  "rankedProjects": [
+    "AI for Optimizing Supply Chain Logistics",
+    "IoT for Smart Waste Management",
+    "IoT for Smart Building Management",
+    "AI for Automated Legal Document Analysis",
+    "AI for Healthcare Diagnostics",
+    "AI for Real-Time Video Analytics",
+    "AI for Enhancing Online Education",
+    "AI for Fraud Detection in Insurance Claims",
+    "IoT for Smart Grid Management",
+    "AI for Enhancing Customer Experience in Retail",
+    "AI for Predictive Analytics in Marketing",
+    "Blockchain for Secure Voting Systems",
+    "AI for Predictive Maintenance in Transportation",
+    "IoT for Smart City Infrastructure",
+    "AI for Automating Legal Document Analysis",
+    "AI for Autonomous Drone Navigation",
+    "Blockchain for Supply Chain Finance",
+    "AI for Real-Time Anomaly Detection",
+    "IoT-Based Environmental Monitoring Systems",
+    "AI for Predictive Analytics in Manufacturing"
+  ],
+  "scoreProjects": [
+    {
+      "name": "AI for Optimizing Supply Chain Logistics",
+      "score": 10
+    },
+    {
+      "name": "IoT for Smart Waste Management",
+      "score": 10
+    },
+    {
+      "name": "IoT for Smart Building Management",
+      "score": 10
+    },
+    {
+      "name": "AI for Automated Legal Document Analysis",
+      "score": 9
+    },
+    {
+      "name": "AI for Healthcare Diagnostics",
+      "score": 8
+    },
+    {
+      "name": "AI for Real-Time Video Analytics",
+      "score": 8
+    },
+    {
+      "name": "AI for Enhancing Online Education",
+      "score": 0
+    },
+    {
+      "name": "AI for Fraud Detection in Insurance Claims",
+      "score": 0
+    },
+    {
+      "name": "IoT for Smart Grid Management",
+      "score": 0
+    },
+    {
+      "name": "AI for Enhancing Customer Experience in Retail",
+      "score": 0
+    },
+    {
+      "name": "AI for Predictive Analytics in Marketing",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Secure Voting Systems",
+      "score": 0
+    },
+    {
+      "name": "AI for Predictive Maintenance in Transportation",
+      "score": 0
+    },
+    {
+      "name": "IoT for Smart City Infrastructure",
+      "score": 0
+    },
+    {
+      "name": "AI for Automating Legal Document Analysis",
+      "score": 0
+    },
+    {
+      "name": "AI for Autonomous Drone Navigation",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Supply Chain Finance",
+      "score": 0
+    },
+    {
+      "name": "AI for Real-Time Anomaly Detection",
+      "score": 0
+    },
+    {
+      "name": "IoT-Based Environmental Monitoring Systems",
+      "score": 0
+    },
+    {
+      "name": "AI for Predictive Analytics in Manufacturing",
+      "score": 0
+    }
+  ],
+  "groupProjects": {
+    "really-want": [
+      "IoT for Smart Environmental Monitoring",
+      "Blockchain for Transparent Voting in Organizations",
+      "AI for Predictive Maintenance in Manufacturing"
+    ],
+    "okay-with": [
+      "Machine Learning for Financial Fraud Detection",
+      "AI for Real-Time Emotion Recognition",
+      "Blockchain for Secure E-Voting Systems"
+    ],
+    "dont-want": [
+      "AI for Real-Time Anomaly Detection",
+      "AI in Autonomous Vehicles",
+      "Blockchain for Supply Chain Traceability",
+      "AI-Powered Chatbots for Customer Service",
+      "Virtual Reality for Museum Exhibits",
+      "AI for Real-Time Speech Recognition",
+      "Blockchain for Transparent Digital Rights Management",
+      "AI for Predictive Analytics in Finance",
+      "AI for Real-Time Language Translation",
+      "AI for Enhancing Online Education",
+      "IoT for Smart Healthcare Systems"
+    ],
+    "not-qualified": [
+      "AI for Real-Time Image Recognition",
+      "AI for Predictive Maintenance in Transportation",
+      "Blockchain for Real Estate Transactions"
+    ]
+  },
+  "checkedProjects": {
+    "approved": [
+      "Blockchain for Transparent Supply Chain Audits",
+      "IoT for Smart City Infrastructure Management",
+      "AI for Personalized Learning Systems",
+      "AI for Personalized Travel Recommendations"
+    ],
+    "disapproved": [
+      "AI for Real-Time Fraud Detection",
+      "Blockchain for Transparent Voting in Organizations",
+      "AI for Predictive Analytics in Sports",
+      "Blockchain for Transparent Charity Donations",
+      "AI for Real-Time Language Translation",
+      "Blockchain for Secure E-Voting Systems",
+      "AI for Personalized Healthcare Recommendations",
+      "AI for Real-Time Image Recognition",
+      "Blockchain for Real Estate Transactions",
+      "AI for Real-Time Video Analytics",
+      "AI for Predictive Maintenance in Transportation",
+      "Blockchain for Secure Digital Contract Management",
+      "AI for Healthcare Diagnostics",
+      "Virtual Reality for Education and Training",
+      "AI for Predictive Analytics in Logistics",
+      "Cybersecurity Measures for Smart Cities"
+    ]
+  },
+  "questions": {
+    "question1": "score",
+    "question2": "yes",
+    "question3": "no",
+    "question4": "yes and I was ok with the outcome",
+    "question5": "not at the moment but might want to do an interview"
+  },
+  "rankedProjectsTime": "00:00:13",
+  "scoreProjectsTime": "00:00:22",
+  "groupProjectsTime": "00:00:26",
+  "checkProjectsTime": "00:00:08"
+}

@@ -1,0 +1,162 @@
+{
+  "rankedProjects": [
+    "IoT for Smart Agriculture",
+    "AI for Real-Time Anomaly Detection",
+    "Virtual Reality for Physical Rehabilitation",
+    "Blockchain for Secure E-Voting Systems",
+    "AI for Predictive Analytics in Healthcare",
+    "AI for Predictive Analytics in Sports",
+    "AI-Powered Chatbots for Customer Service",
+    "AI for Automating Legal Document Analysis",
+    "Blockchain for Decentralized Data Storage",
+    "AI for Predictive Maintenance in Manufacturing",
+    "Blockchain for Supply Chain Transparency",
+    "IoT for Remote Patient Monitoring",
+    "Blockchain for Secure Digital Contract Management",
+    "Blockchain for Supply Chain Traceability",
+    "AI for Predictive Analytics in Marketing",
+    "Virtual Reality for Collaborative Workspaces",
+    "AI for Personalized Health Monitoring",
+    "AI-Enhanced E-Learning Platforms",
+    "AI for Predictive Analytics in Logistics",
+    "AI for Automated Legal Document Analysis"
+  ],
+  "scoreProjects": [
+    {
+      "name": "IoT for Smart Agriculture",
+      "score": 0
+    },
+    {
+      "name": "AI for Real-Time Anomaly Detection",
+      "score": 0
+    },
+    {
+      "name": "Virtual Reality for Physical Rehabilitation",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Secure E-Voting Systems",
+      "score": 0
+    },
+    {
+      "name": "AI for Predictive Analytics in Healthcare",
+      "score": 0
+    },
+    {
+      "name": "AI for Predictive Analytics in Sports",
+      "score": 0
+    },
+    {
+      "name": "AI-Powered Chatbots for Customer Service",
+      "score": 0
+    },
+    {
+      "name": "AI for Automating Legal Document Analysis",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Decentralized Data Storage",
+      "score": 0
+    },
+    {
+      "name": "AI for Predictive Maintenance in Manufacturing",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Supply Chain Transparency",
+      "score": 0
+    },
+    {
+      "name": "IoT for Remote Patient Monitoring",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Secure Digital Contract Management",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Supply Chain Traceability",
+      "score": 0
+    },
+    {
+      "name": "AI for Predictive Analytics in Marketing",
+      "score": 0
+    },
+    {
+      "name": "Virtual Reality for Collaborative Workspaces",
+      "score": 0
+    },
+    {
+      "name": "AI for Personalized Health Monitoring",
+      "score": 0
+    },
+    {
+      "name": "AI-Enhanced E-Learning Platforms",
+      "score": 0
+    },
+    {
+      "name": "AI for Predictive Analytics in Logistics",
+      "score": 0
+    },
+    {
+      "name": "AI for Automated Legal Document Analysis",
+      "score": 0
+    }
+  ],
+  "groupProjects": {
+    "really-want": [],
+    "okay-with": [],
+    "dont-want": [
+      "AI for Autonomous Drone Navigation",
+      "AI for Fraud Detection in Insurance Claims",
+      "Cloud-Based Disaster Recovery Solutions",
+      "AI for Real-Time Anomaly Detection",
+      "Virtual Reality for Museum Exhibits",
+      "AI for Real-Time Emotion Recognition",
+      "AI for Predictive Analytics in Sports",
+      "Blockchain for Transparent Charity Operations",
+      "AI for Enhanced Cyber Threat Detection",
+      "Smart Grid Technology for Energy Management",
+      "AI for Personalized Learning Systems",
+      "AI for Predictive Maintenance in Transportation",
+      "AI for Real-Time Speech Recognition",
+      "Virtual Reality for Physical Rehabilitation",
+      "IoT for Smart Parking Systems",
+      "AI for Healthcare Diagnostics",
+      "Blockchain for Transparent Charity Donations",
+      "AI for Predictive Analytics in Marketing",
+      "Machine Learning for Financial Fraud Detection",
+      "Blockchain for Supply Chain Finance"
+    ],
+    "not-qualified": []
+  },
+  "checkedProjects": {
+    "approved": [],
+    "disapproved": [
+      "AI for Sentiment Analysis in Social Media",
+      "Machine Learning for Financial Fraud Detection",
+      "IoT for Smart Parking Systems",
+      "AI for Personalized Learning Systems",
+      "AI for Enhancing Online Education",
+      "AI for Real-Time Sports Analytics",
+      "AI for Predictive Maintenance in Manufacturing",
+      "IoT for Smart Environmental Monitoring",
+      "Cybersecurity Measures for Smart Cities",
+      "AI for Predictive Analytics in Retail",
+      "Virtual Reality for Historical Education",
+      "Blockchain for Decentralized Data Storage",
+      "AI for Real-Time Language Translation",
+      "Smart Grid Technology for Energy Management",
+      "AI for Enhancing Customer Experience in Retail",
+      "Natural Language Processing for Sentiment Analysis",
+      "AI for Automating Legal Document Analysis",
+      "IoT for Smart Grid Management",
+      "Blockchain for Transparent Crowdfunding",
+      "AI for Enhancing Customer Service"
+    ]
+  },
+  "rankedProjectsTime": 8.579,
+  "scoreProjectsTime": 2.899,
+  "groupProjectsTime": 7.42,
+  "checkProjectsTime": 4.791
+}

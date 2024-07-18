@@ -1,0 +1,170 @@
+{
+  "rankedProjects": [
+    "Measure cookie setting behavior of web pages showing cookie privacy warnings",
+    "Experimentation and Optimisation of Mobile Media Delivery",
+    "Sources of variability in neural activity",
+    "Exploration of Neural Symbolic AI",
+    "Parallel database query processing using OpenCL",
+    "AI for game theory",
+    "Alternative implementations of PMark",
+    "End to End Service based 5G Mobile Network Infrastructure and Use Cases",
+    "Intelligent edge processing for Lidar point cloud data",
+    "A front end for the probabilistic model checker Storm",
+    "Implementation of an Algorithm for Optimal Probability Computation Using Transition Probability Matrices",
+    "Formal Proofs of Cryptographic Protocols",
+    "Biologically Inspired Multiagent Pursuit Evasion Models",
+    "OK, Piet: A semantic definition for the esoteric programming language Piet",
+    "Analysis of Air Pollution, Respiratory and Physical Activity datasets for investigating health effects of air pollution",
+    "Cache Coherence Protocol Library",
+    "Localisation and Shape Estimation of a Robotic Bronchoscope in Lung Surgery",
+    "Automatic Conversion Between Flavours of SQL",
+    "Operation oriented NoSQL database",
+    "Secure mobile applications using Trusted Execution Environments"
+  ],
+  "scoreProjects": [
+    {
+      "name": "Measure cookie setting behavior of web pages showing cookie privacy warnings",
+      "score": 0
+    },
+    {
+      "name": "Experimentation and Optimisation of Mobile Media Delivery",
+      "score": 0
+    },
+    {
+      "name": "Sources of variability in neural activity",
+      "score": 0
+    },
+    {
+      "name": "Exploration of Neural Symbolic AI",
+      "score": 0
+    },
+    {
+      "name": "Parallel database query processing using OpenCL",
+      "score": 0
+    },
+    {
+      "name": "AI for game theory",
+      "score": 0
+    },
+    {
+      "name": "Alternative implementations of PMark",
+      "score": 0
+    },
+    {
+      "name": "End to End Service based 5G Mobile Network Infrastructure and Use Cases",
+      "score": 0
+    },
+    {
+      "name": "Intelligent edge processing for Lidar point cloud data",
+      "score": 0
+    },
+    {
+      "name": "A front end for the probabilistic model checker Storm",
+      "score": 0
+    },
+    {
+      "name": "Implementation of an Algorithm for Optimal Probability Computation Using Transition Probability Matrices",
+      "score": 0
+    },
+    {
+      "name": "Formal Proofs of Cryptographic Protocols",
+      "score": 0
+    },
+    {
+      "name": "Biologically Inspired Multiagent Pursuit Evasion Models",
+      "score": 0
+    },
+    {
+      "name": "OK, Piet: A semantic definition for the esoteric programming language Piet",
+      "score": 0
+    },
+    {
+      "name": "Analysis of Air Pollution, Respiratory and Physical Activity datasets for investigating health effects of air pollution",
+      "score": 0
+    },
+    {
+      "name": "Cache Coherence Protocol Library",
+      "score": 0
+    },
+    {
+      "name": "Localisation and Shape Estimation of a Robotic Bronchoscope in Lung Surgery",
+      "score": 0
+    },
+    {
+      "name": "Automatic Conversion Between Flavours of SQL",
+      "score": 0
+    },
+    {
+      "name": "Operation oriented NoSQL database",
+      "score": 0
+    },
+    {
+      "name": "Secure mobile applications using Trusted Execution Environments",
+      "score": 0
+    }
+  ],
+  "groupProjects": {
+    "really-want": [],
+    "okay-with": [
+      "Automatic Knowledge Discovery"
+    ],
+    "dont-want": [
+      "Image based Localization and Tracking of a Contiuum Flexible Robot",
+      "Interactive Classifier Training and Data Optimization in the NASA/JPL Complex Data Explorer",
+      "Parsing the STAC corpus",
+      "Optimizing algorithms in automata theory with Java fork join concurrency",
+      "Computational modelling of biological learning",
+      "Structure learning of bipartite Ising models",
+      "Sloppy passwords and security awareness: can a little nudge help?",
+      "Anonymous Messaging on a RaspberryPiNet",
+      "Measuring Performance Effect of Tor Bandwidth Publishing",
+      "Using usernames to predict the survival of accounts",
+      "Obfuscation for Privacy preserving Syntactic Parsing",
+      "Building a Music Recommendation System",
+      "Implementing Federated Learning in Tensorflow.js",
+      "OK, Piet: A semantic definition for the esoteric programming language Piet",
+      "Polished.me",
+      "A front end for the probabilistic model checker Storm",
+      "Further exploration of Euler's Foundations of Differential Calculus in Isabelle/HOL using nonstandard analysis",
+      "Simulation of an existing quantum algorithm emulating an unknown quantum process on a classical device",
+      "Recording Execution Traces through JAVA programs"
+    ],
+    "not-qualified": []
+  },
+  "checkedProjects": {
+    "approved": [],
+    "disapproved": [
+      "Tool to assist with assessing evidence for academic misconduct.",
+      "Tools for teaching Computation and Logic",
+      "Scalable Software Messaging Layer for Multiple kernel Operating System",
+      "Obfuscation for Privacy preserving Syntactic Parsing",
+      "Join ordering of SQL optimization",
+      "Simultaneous Localisation and Mapping (SLAM) of The Airways in Lung Bronchoscopy",
+      "Performing KYC with Distributed Ledger Technology",
+      "Bringing the stupid computer to life",
+      "Machine Learning for Stock Price Prediction",
+      "Learning to play Draughts",
+      "Unité   the physics programming language",
+      "Model based Control of Continuum Robots",
+      "Parallel database query processing using OpenCL",
+      "Mobile measurement of urban interference and spectrum utilisation patterns",
+      "Automatic segmentation of biomes in medium resolution satellite imagery",
+      "Generalization in Reinforcement Learning",
+      "MegamodelBuild",
+      "Visualization of composed cryptographic games and automatic derivation of simple cryptographic reductions",
+      "Analysing the Robustness of Transport Ticketing Apps",
+      "Deep learning for variant calling from nanopore sequencing data"
+    ]
+  },
+  "questions": {
+    "question1": "",
+    "question2": "",
+    "question3": "",
+    "question4": "",
+    "question5": ""
+  },
+  "rankedProjectsTime": "00:01:21",
+  "scoreProjectsTime": "00:00:02",
+  "groupProjectsTime": "00:00:16",
+  "checkProjectsTime": "00:00:03"
+}

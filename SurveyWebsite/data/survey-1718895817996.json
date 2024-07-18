@@ -1,0 +1,170 @@
+{
+  "rankedProjects": [
+    "AI for Predictive Maintenance in Manufacturing",
+    "Blockchain for Transparent Government Procurement",
+    "Blockchain for Transparent Voting in Organizations",
+    "AI for Predictive Analytics in Logistics",
+    "Cloud-Based Disaster Recovery Solutions",
+    "Smart Grid Technology for Energy Management",
+    "AI for Real-Time Traffic Management",
+    "Blockchain for Intellectual Property Protection",
+    "AI for Enhancing Customer Service",
+    "AI for Enhanced Cybersecurity Threat Detection",
+    "Blockchain for Transparent Crowdfunding",
+    "AI for Enhancing Online Education",
+    "Virtual Reality for Education and Training",
+    "Machine Learning for Financial Fraud Detection",
+    "Blockchain for Secure Healthcare Records",
+    "Virtual Reality for Museum Exhibits",
+    "AI for Predictive Analytics in Marketing",
+    "AI for Real-Time Sports Analytics",
+    "AI for Predictive Maintenance in Transportation",
+    "AI for Real-Time Video Analytics"
+  ],
+  "scoreProjects": [
+    {
+      "name": "AI for Predictive Maintenance in Manufacturing",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Transparent Government Procurement",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Transparent Voting in Organizations",
+      "score": 0
+    },
+    {
+      "name": "AI for Predictive Analytics in Logistics",
+      "score": 0
+    },
+    {
+      "name": "Cloud-Based Disaster Recovery Solutions",
+      "score": 0
+    },
+    {
+      "name": "Smart Grid Technology for Energy Management",
+      "score": 0
+    },
+    {
+      "name": "AI for Real-Time Traffic Management",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Intellectual Property Protection",
+      "score": 0
+    },
+    {
+      "name": "AI for Enhancing Customer Service",
+      "score": 0
+    },
+    {
+      "name": "AI for Enhanced Cybersecurity Threat Detection",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Transparent Crowdfunding",
+      "score": 0
+    },
+    {
+      "name": "AI for Enhancing Online Education",
+      "score": 0
+    },
+    {
+      "name": "Virtual Reality for Education and Training",
+      "score": 0
+    },
+    {
+      "name": "Machine Learning for Financial Fraud Detection",
+      "score": 0
+    },
+    {
+      "name": "Blockchain for Secure Healthcare Records",
+      "score": 0
+    },
+    {
+      "name": "Virtual Reality for Museum Exhibits",
+      "score": 0
+    },
+    {
+      "name": "AI for Predictive Analytics in Marketing",
+      "score": 0
+    },
+    {
+      "name": "AI for Real-Time Sports Analytics",
+      "score": 0
+    },
+    {
+      "name": "AI for Predictive Maintenance in Transportation",
+      "score": 0
+    },
+    {
+      "name": "AI for Real-Time Video Analytics",
+      "score": 0
+    }
+  ],
+  "groupProjects": {
+    "really-want": [],
+    "okay-with": [],
+    "dont-want": [
+      "IoT for Smart City Infrastructure Management",
+      "Blockchain for Transparent Digital Identity",
+      "AI for Predictive Maintenance in Transportation",
+      "Blockchain for Transparent Supply Chain Audits",
+      "AI for Predictive Policing",
+      "Blockchain for Decentralized Data Storage",
+      "AI for Optimizing Supply Chain Logistics",
+      "Blockchain for Secure E-Voting Systems",
+      "AI for Predictive Analytics in Manufacturing",
+      "AI for Sentiment Analysis in Social Media",
+      "Blockchain for Secure Healthcare Records",
+      "Blockchain for Transparent Supply Chain Finance",
+      "IoT for Remote Patient Monitoring",
+      "IoT for Smart Transportation Systems",
+      "Cybersecurity for IoT Devices",
+      "Blockchain for Transparent Crowdfunding",
+      "Virtual Reality for Historical Education",
+      "AI for Predictive Analytics in Healthcare",
+      "AI for Predictive Maintenance in Manufacturing",
+      "Blockchain for Transparent Charity Operations"
+    ],
+    "not-qualified": []
+  },
+  "checkedProjects": {
+    "approved": [
+      "Blockchain for Transparent Government Procurement",
+      "IoT for Smart Agriculture"
+    ],
+    "disapproved": [
+      "AI for Real-Time Fraud Detection",
+      "AI for Real-Time Anomaly Detection",
+      "AI for Financial Market Prediction",
+      "AI for Real-Time Sports Analytics",
+      "Virtual Reality for Education and Training",
+      "Virtual Reality for Historical Education",
+      "IoT-Based Environmental Monitoring Systems",
+      "AI for Predictive Maintenance in Manufacturing",
+      "Cloud-Based Solutions for Enterprise Resource Planning",
+      "AI for Real-Time Emotion Recognition",
+      "AI for Personalized Learning Systems",
+      "Blockchain for Secure Healthcare Records",
+      "AI for Real-Time Traffic Management",
+      "AI for Enhancing Customer Service",
+      "Virtual Reality for Museum Exhibits",
+      "IoT for Smart Parking Systems",
+      "Blockchain for Transparent Supply Chain Audits",
+      "AI for Optimizing Energy Consumption in Smart Homes"
+    ]
+  },
+  "questions": {
+    "question1": "",
+    "question2": "",
+    "question3": "",
+    "question4": "",
+    "question5": ""
+  },
+  "rankedProjectsTime": "00:00:07",
+  "scoreProjectsTime": "00:00:04",
+  "groupProjectsTime": "00:00:06",
+  "checkProjectsTime": "00:00:08"
+}

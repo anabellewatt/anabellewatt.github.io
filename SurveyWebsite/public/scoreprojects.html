@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Score Projects</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file for styling -->
+    <script src="LoadPage.js"></script>
+</head>
+<body>
+<header id="page-header">
+    <h1>Score the Projects</h1>
+</header>
+<div id="instructions-modal" class="modal-container">
+    <div class="modal-content">
+        <h2>Instructions</h2>
+        <p>1.Based on your previous rankings please add a score (0-10) to each project to determine how much you want each project.
+        10 being you really want that project compared to the rest, and 0 being you don't want the project. </p>
+        <p>2.To view the project information again, click on the project title.</p>
+        <p>3.The score of a project ranked lower must be equal to or less than the project ranked above it.</p>
+        <p>4.If no score is added, the projects will automatically be scored 0 meaning you have no preference between the projects.</p>
+        <button id="start-button" class="form-submit-button">OK</button>
+    </div>
+</div>
+<form id="score-form">
+    <div id="ranked-projects-container"></div>
+    <button type="submit" class="form-submit-button">Submit Scores</button>
+</form>
+
+<div id="timer-container">
+    <span id="timer">00:00:00</span>
+    <button id="pause-button">Pause</button>
+    <button id="resume-button" style="display: none;">Resume</button>
+</div>
+<div id="project-info-container4" class="project-info-container4"></div>
+<div id="blackout-screen">
+    <button id="resume-button-blackout">Resume</button>
+</div>
+
+<div id="modal-container" class="modal-container">
+    <div id="modal-content" class="modal-content">
+        <span id="close-modal" class="close-modal">&times;</span>
+        <div id="project-info"></div>
+    </div>
+</div>
+
+<script src="scoreprojects.js"></script>
+<script src="Timer.js"></script>
+</body>
+</html>
