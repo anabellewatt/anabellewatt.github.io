@@ -1,20 +1,17 @@
-// Client-side JavaScript code (e.g., in your Survey.html or end.html file)
-// Make sure to replace 'http://localhost:3000/end.html' with the correct URL of your server endpoint
-
 const sendDataToServer = () => {
     const surveyData = {
         rankedProjects: JSON.parse(localStorage.getItem('rankedProjects')),
         scoreProjects: JSON.parse(localStorage.getItem('rankedScores')),
         groupProjects: JSON.parse(localStorage.getItem('categorizedProjects')),
         checkedProjects: JSON.parse(localStorage.getItem('checkedProjects')),
-        questions:JSON.parse(localStorage.getItem('userAnswers')),
+        questions: JSON.parse(localStorage.getItem('userAnswers')),
         rankedProjectsTime: JSON.parse(localStorage.getItem('RankProjectDuration')),
-        scoreProjectsTime:JSON.parse(localStorage.getItem('ScoreProjectDuration')),
-        groupProjectsTime:JSON.parse(localStorage.getItem('GroupProjectDuration')),
-        checkProjectsTime:JSON.parse(localStorage.getItem('CheckProjectDuration'))
+        scoreProjectsTime: JSON.parse(localStorage.getItem('ScoreProjectDuration')),
+        groupProjectsTime: JSON.parse(localStorage.getItem('GroupProjectDuration')),
+        checkProjectsTime: JSON.parse(localStorage.getItem('CheckProjectDuration'))
     };
 
-    fetch('http://localhost:3000/end.html', {
+    fetch('https://44w27n6k28.execute-api.eu-north-1.amazonaws.com/prod', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
