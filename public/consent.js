@@ -14,7 +14,7 @@ document.getElementById('consent-form').addEventListener('submit', function(e) {
             .then(response => {
                 if (response.ok) {
                     // Redirect to the survey page if agreement is given
-                    window.location.href = '/Survey.html';
+                    window.location.href = '/public/Survey.html';
                 } else {
                     console.error('Failed to submit consent');
                     alert('Failed to submit consent');
