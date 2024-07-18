@@ -10,6 +10,7 @@ const sendDataToServer = () => {
         groupProjectsTime: JSON.parse(localStorage.getItem('GroupProjectDuration')),
         checkProjectsTime: JSON.parse(localStorage.getItem('CheckProjectDuration'))
     };
+    console.log("Data being sent to API:", JSON.stringify(surveyData));
 
     fetch('https://44w27n6k28.execute-api.eu-north-1.amazonaws.com/prod/Submit-Survey', {
         method: 'POST',
