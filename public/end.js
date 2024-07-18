@@ -11,7 +11,7 @@ const sendDataToServer = () => {
         checkProjectsTime: JSON.parse(localStorage.getItem('CheckProjectDuration'))
     };
 
-    fetch('https://44w27n6k28.execute-api.eu-north-1.amazonaws.com/', {
+    fetch('https://44w27n6k28.execute-api.eu-north-1.amazonaws.com/Submit-Survey', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
