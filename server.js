@@ -32,14 +32,14 @@ app.post('/submit-consent', (req, res) => {
     const { agreed } = req.body;
 
     if (agreed === true) {
-        res.redirect('/Survey.html'); // Redirect to the survey page if agreed
+        res.redirect('/public/Survey.html'); // Redirect to the survey page if agreed
     } else {
         res.status(400).send('Consent not given'); // Handle if consent is not given
     }
 });
 
 // Route to handle form submission from the survey page
-app.post('/end.html', (req, res) => {
+app.post('/public/end.html', (req, res) => {
     const surveyData = req.body
     const filename = `survey-${Date.now()}.json`;
     const filePath = path.join(__dirname, 'data', filename);
