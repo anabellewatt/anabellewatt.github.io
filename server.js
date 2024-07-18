@@ -16,12 +16,12 @@ app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, 'index.html'));
 });
 // Route to serve the consent page
-app.get('/consent.html', (req, res) => {
+app.get('/public/consent.html', (req, res) => {
     res.sendFile(path.join(__dirname, 'public', 'consent.html'));
 });
 
 // Route to serve the survey page
-app.get('/Survey.html', (req, res) => {
+app.get('/public/Survey.html', (req, res) => {
     res.sendFile(path.join(__dirname, 'public', 'Survey.html'));
 });
 
