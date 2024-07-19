@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const answers = {};
 
         formData.forEach((value, key) => {
-            answers[key] = sanitizeInput(value.trim());
+            answers[key] = sanitizeInput(value);
         });
 
         const rankedMethods = Array.from(document.getElementById('ranking-container').children)
@@ -39,7 +39,11 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 const sanitizeInput = (input) => {
+    if (typeof input !== 'string') {
+        return '';
+    }
     return input
+        .replace(/&/g, '&amp;')
         .replace(/</g, '&lt;')
         .replace(/>/g, '&gt;')
         .replace(/"/g, '&quot;')
@@ -48,5 +52,6 @@ const sanitizeInput = (input) => {
         .replace(/\$/g, '&#36;')
         .replace(/\\/g, '&#92;')
         .replace(/\//g, '&#47;')
-        .replace(/&/g, '&amp;');
+        .trim()
+        .substring(0, 1000); // Limit input length
 };
